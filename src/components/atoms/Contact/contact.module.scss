@@ -1,0 +1,22 @@
+@import '@styles/main';
+
+.contactContainer {
+  margin-bottom: 24px;
+
+  h5 {
+    color: $color-gray25;
+  }
+
+  &:hover {
+    h5, p {
+      color: $color-serria;
+      cursor: pointer;
+    }
+  }
+}
+
+.socialIconsContainer {
+  margin-top: 8px;
+  display: flex;
+  gap: 14px;
+}

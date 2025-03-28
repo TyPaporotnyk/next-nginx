@@ -1,0 +1,38 @@
+{
+  "callToAction": {
+    "title": "Donate",
+    "href": "/support-us"
+  },
+  "locales": ["en-us", "uk-ua"],
+  "locale": "en-us",
+  "logo": {
+    "title": "logo_eng.svg",
+    "url": "/logo_eng.svg"
+  },
+  "navigationLinks": [
+    {
+      "title": "Home",
+      "href": "/"
+    },
+    {
+      "title": "About us",
+      "href": "/about-us"
+    },
+    {
+      "title": "News",
+      "href": "/news"
+    },
+    {
+      "title": "Types of help",
+      "href": "/types-of-help"
+    },
+    {
+      "title": "Ask for help",
+      "href": "/ask-for-help"
+    },
+    {
+      "title": "Contacts",
+      "href": "/contacts"
+    }
+  ]
+}

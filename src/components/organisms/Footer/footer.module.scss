@@ -1,0 +1,135 @@
+@import '@styles/main';
+
+.footerOuterContainer {
+  width: 100%;
+  background-color: $color-woodland;
+  margin-top: 34px;
+
+  @media (min-width: $tablet) {
+    margin-top: 100px;
+  }
+}
+
+.footerInnerContainer {
+  padding: 24px 16px;
+  margin: 0 auto;
+  max-width: 1440px;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  gap: 16px;
+
+  a,
+  div {
+    color: $color-white;
+  }
+
+  @media (min-width: $tablet) {
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 58px 34px 44px;
+  }
+
+  @media (min-width: $desktop-wide) {
+    padding: 58px 75px 44px;
+  }
+
+  .logo {
+    display: flex;
+
+    img,
+    a {
+      width: 73px;
+      height: 23px;
+    }
+
+    @media (min-width: $tablet) {
+      img,
+      a {
+        width: 97px;
+        height: 30px;
+      }
+    }
+
+    @media (min-width: $desktop) {
+      img,
+      a {
+        width: 163px;
+        height: 52px;
+      }
+    }
+    @media (min-width: $desktop-wide) {
+      img,
+      a {
+        width: 194px;
+        height: 62px;
+      }
+    }
+  }
+
+  .linksContainer {
+    display: flex;
+    gap: 25px;
+
+    @media (min-width: $tablet) {
+      gap: 46px;
+    }
+
+    @media (min-width: $desktop) {
+      gap: 49px;
+    }
+
+    @media (min-width: $desktop-wide) {
+      gap: 133px;
+    }
+  }
+
+  .activitiesLinkContainer {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 19px;
+    max-width: 196px;
+  }
+
+  .navContainer {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 22px;
+    max-width: 178px;
+  }
+
+  .socialLinksAndPoliciesContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    @media (min-width: $tablet) {
+      gap: 28px;
+    }
+  }
+
+  .socialIconsContainer {
+    display: flex;
+    gap: 16px;
+  }
+
+  .copyright,
+  .activityLink,
+  a {
+    font-family: $font-regular;
+    @include fontSizes(12px, 15px);
+
+    @media (min-width: $tablet) {
+      font-family: $font-medium;
+      @include fontSizes(14px, 18px);
+    }
+  }
+
+  .copyright {
+    text-wrap: nowrap;
+  }
+}

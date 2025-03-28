@@ -1,0 +1,57 @@
+{
+  "copyright": "©2023 МРІЯ ФУНДАЦІЯ",
+  "logo": {
+    "title": "logo_ukr.svg",
+    "url": "/logo_ukr.svg"
+  },
+  "navigationLinks": [
+    {
+      "title": "ПРО НАС",
+      "href": "/about-us"
+    },
+    {
+      "title": "НОВИНИ",
+      "href": "/news"
+    },
+    {
+      "title": "ВИДИ ДОПОМОГИ",
+      "href": "/types-of-help"
+    },
+    {
+      "title": "ЗАЯВКА НА ДОПОМОГУ",
+      "href": "/ask-for-help"
+    },
+    {
+      "title": "КОНТАКТИ",
+      "href": "/contacts"
+    }
+  ],
+  "socialLinks": [
+    {
+      "title": "instagram",
+      "href": "https://www.instagram.com/mriya.foundation/"
+    },
+    {
+      "title": "facebook",
+      "href": "https://www.facebook.com/mriya.foundation/"
+    }
+  ],
+  "typesOfHelpLinks": [
+    {
+      "title": "ПРАВОВА ПІДТРИМКА Й ДОПОМОГА",
+      "href": "/types-of-help#law"
+    },
+    {
+      "title": "ГУМАНІТАРНА ДОПОМОГА",
+      "href": "/types-of-help#humanitarian"
+    },
+    {
+      "title": "ОСВІТНЯ ПІДТРИМКА",
+      "href": "/types-of-help#education"
+    },
+    {
+      "title": "ЛІТО БЕЗ ВІЙНИ",
+      "href": "/types-of-help#summer"
+    }
+  ]
+}

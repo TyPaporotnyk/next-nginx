@@ -1,0 +1,173 @@
+@import "./mixins";
+@import "./media-targets";
+
+@font-face {
+  font-family: "Adrianna";
+  src: url("../fonts/Adrianna-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "TTFirsNeue-Medium";
+  src: url("../fonts/TTFirsNeue-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "TTFirsNeue-Regular";
+  src: url("../fonts/TTFirsNeue-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+}
+
+$font-heading: "Adrianna", Calibri, sans-serif;
+$font-medium: "TTFirsNeue-Medium", Calibri, sans-serif;
+$font-regular: "TTFirsNeue-Regular", Calibri, sans-serif;
+
+// Sets font, bold, italic, font size and line height
+// $type is one of h1-4, body.
+@mixin text-typography($type) {
+  $font-weights: (
+    h1: 700,
+    h2: 700,
+    h3: 700,
+    h4: 700,
+    h5: 700,
+    h6: 700,
+    body: 500,
+    p: 400,
+    a: 400,
+  );
+
+  $font-families: (
+    h1: $font-heading,
+    h2: $font-heading,
+    h3: $font-heading,
+    h4: $font-heading,
+    h5: $font-heading,
+    h6: $font-heading,
+    body: $font-medium,
+    p: $font-regular,
+    a: $font-regular,
+  );
+
+  $font-sizes: (
+    mobile: (
+      h1: 34px,
+      h2: 28px,
+      h3: 24px,
+      h4: 18px,
+      h5: 16px,
+      h6: 12px,
+      body: 14px,
+      p: 14px,
+      a: 14px,
+    ),
+    tablet: (
+      h1: 40px,
+      h2: 32px,
+      h3: 28px,
+      h4: 24px,
+      h5: 16px,
+      h6: 12px,
+      body: 16px,
+      p: 16px,
+      a: 16px,
+    ),
+    desktop: (
+      h1: 64px,
+      h2: 52px,
+      h3: 44px,
+      h4: 34px,
+      h5: 22px,
+      h6: 18px,
+      body: 18px,
+      p: 18px,
+      a: 18px,
+    ),
+    desktop-wide: (
+      h1: 64px,
+      h2: 52px,
+      h3: 44px,
+      h4: 34px,
+      h5: 22px,
+      h6: 18px,
+      body: 18px,
+      p: 18px,
+      a: 18px,
+    )
+  );
+  $line-heights: (
+    mobile: (
+      h1: 37px,
+      h2: 36px,
+      h3: 32px,
+      h4: 23px,
+      h5: 21px,
+      h6: 16px,
+      body: 18px,
+      p: 18px,
+      a: 18px,
+    ),
+    tablet: (
+      h1: 48px,
+      h2: 40px,
+      h3: 36px,
+      h4: 26px,
+      h5: 24px,
+      h6: 16px,
+      body: 22px,
+      p: 22px,
+      a: 22px,
+    ),
+    desktop: (
+      h1: 68px,
+      h2: 52px,
+      h3: 44px,
+      h4: 37px,
+      h5: 28px,
+      h6: 20px,
+      body: 26px,
+      p: 26px,
+      a: 26px,
+    ),
+    desktop-wide: (
+      h1: 68px,
+      h2: 52px,
+      h3: 44px,
+      h4: 37px,
+      h5: 28px,
+      h6: 20px,
+      body: 26px,
+      p: 26px,
+      a: 26px,
+    )
+  );
+
+  font-family: map_get($font-families, $type);
+  font-weight: map_get($font-weights, $type);
+
+  font-size: px-to-rem(map_get(map-get($font-sizes, mobile), $type));
+  line-height: px-to-rem(map_get(map-get($line-heights, mobile), $type));
+
+  @media (min-width: $tablet) {
+    font-size: px-to-rem(map_get(map-get($font-sizes, tablet), $type));
+    line-height: px-to-rem(map_get(map-get($line-heights, tablet), $type));
+  }
+
+  @media (min-width: $desktop) {
+    font-size: px-to-rem(map_get(map-get($font-sizes, desktop), $type));
+    line-height: px-to-rem(map_get(map-get($line-heights, desktop), $type));
+  }
+
+  @media (min-width: $desktop-wide) {
+    font-size: px-to-rem(map_get(map-get($font-sizes, desktop-wide), $type));
+    line-height: px-to-rem(map_get(map-get($line-heights, desktop-wide), $type));
+  }
+}
+
+@mixin fontSizes($font-size, $line-height) {
+  font-size: px-to-rem($font-size);
+  line-height: px-to-rem($line-height);
+}

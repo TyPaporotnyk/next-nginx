@@ -1,0 +1,35 @@
+@import '@styles/main';
+
+.sectionWrapper {
+  width: 100%;
+  
+  &.greenBg {
+    background: $color-woodland;
+    color: $color-white;
+  }
+  &.whiteBg {
+    background: $color-white;
+  }
+}
+
+.sectionContainer {
+  margin: 0 auto;
+  padding: 34px 16px 0;
+  max-width: 1440px;
+
+  &.isFirstSection {
+    padding-top: 92px;
+  }
+
+  @media (min-width: $tablet) {
+    padding: 100px 34px 0;
+
+    &.isFirstSection {
+      padding-top: 204px;
+    }
+  }
+
+  @media (min-width: $desktop-wide) {
+    padding: 100px 75px 0;
+  }
+}

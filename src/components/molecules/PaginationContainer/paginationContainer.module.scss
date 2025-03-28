@@ -1,0 +1,408 @@
+@import '@styles/main';
+
+.paginationContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.paginationContent {
+  align-self: flex-start;
+  width: 500vw;
+  position: relative;
+  left: 0;
+  transition: left linear 0.3s;
+  display: flex;
+  align-items: center;
+  gap: 32px;
+
+  &.activitiesContainer {
+    @media (min-width: $tablet) {
+      gap: 24px;
+    }
+
+    @media (min-width: $desktop-wide) {
+      width: 100%;
+    }
+
+    &.mobileTarget {
+      &.page0 {
+        left: 0;
+      }
+
+      &.page1 {
+        left: -100vw;
+      }
+
+      &.page2 {
+        left: -200vw;
+      }
+
+      &.page3 {
+        left: -300vw;
+      }
+
+      &.page4 {
+        left: -400vw;
+      }
+
+      & > div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 412px;
+        width: calc(100vw - 32px);
+        background-color: $color-white;
+        padding: 34px 24px;
+        color: $color-scorpion;
+        text-align: center;
+
+        .activityIcon {
+          width: 90px;
+          height: 90px;
+        }
+
+        .textContent {
+          margin: 32px 0 16px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+
+          h6 {
+            @include fontSizes(18px, 19px);
+          }
+
+          div {
+            margin-top: 16px;
+            @include fontSizes(14px, 19px);
+          }
+
+          a {
+            text-decoration: underline;
+            color: $color-link-blue;
+          }
+        }
+      }
+    }
+
+    &.tabletTarget {
+      & > div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 620px;
+        width: calc((100vw - 34px * 2 - 24px * 2) / 3);
+        background-color: $color-white;
+        padding: 34px 12px;
+        color: $color-scorpion;
+        text-align: center;
+
+        .activityIcon {
+          width: 90px;
+          height: 90px;
+        }
+
+        .textContent {
+          flex: 1;
+          margin: 32px 0 24px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          height: 280px;
+          overflow: hidden;
+
+          h6 {
+            @include fontSizes(18px, 19px);
+          }
+
+          div {
+            margin-top: 30px;
+            @include fontSizes(16px, 20px);
+          }
+
+          a {
+            text-decoration: underline;
+            color: $color-link-blue;
+          }
+        }
+      }
+
+      &.page0 {
+        left: 0;
+      }
+
+      &.page1 {
+        left: calc((-100vw + 34px * 2 + 24px * 2) / 3 - 24px);
+      }
+
+      &.page2 {
+        left: -200vw;
+      }
+
+      &.page3 {
+        left: -300vw;
+      }
+
+      &.page4 {
+        left: -400vw;
+      }
+    }
+
+    &.desktopTarget {
+      & > div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 648px;
+        width: calc((100vw - 34px * 2 - 24px * 2) / 3);
+        background-color: $color-white;
+        padding: 34px 24px;
+        color: $color-scorpion;
+        text-align: center;
+
+        .activityIcon {
+          width: 116px;
+          height: 116px;
+        }
+
+        .textContent {
+          flex: 1;
+          margin: 34px 0;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          height: 280px;
+          overflow: hidden;
+
+          h6 {
+            @include fontSizes(18px, 19px);
+          }
+
+          div {
+            margin-top: 30px;
+            @include fontSizes(16px, 20px);
+          }
+
+          a {
+            text-decoration: underline;
+            @include fontSizes(16px, 26px);
+            color: $color-link-blue;
+          }
+        }
+      }
+
+      &.page0 {
+        left: 0;
+      }
+
+      &.page1 {
+        left: calc((-100vw + 34px * 2 + 24px * 2) / 3 - 24px);
+      }
+
+      &.page2 {
+        left: -200vw;
+      }
+
+      &.page3 {
+        left: -300vw;
+      }
+
+      &.page4 {
+        left: -400vw;
+      }
+    }
+
+    &.desktop_wideTarget {
+      left: 0;
+
+      & > div {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 678px;
+        width: auto;
+        background-color: $color-white;
+        padding: 34px 24px;
+        color: $color-scorpion;
+        text-align: center;
+
+        .activityIcon {
+          width: 142px;
+          height: 142px;
+        }
+
+        .textContent {
+          flex: 1;
+          margin: 34px 0;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          height: 280px;
+          overflow: hidden;
+
+          h6 {
+            @include fontSizes(18px, 19px);
+          }
+
+          div {
+            margin-top: 30px;
+            @include fontSizes(16px, 24px);
+          }
+
+          a {
+            text-decoration: underline;
+            @include fontSizes(16px, 26px);
+            color: $color-link-blue;
+          }
+        }
+
+        button {
+          padding: 13px 19px;
+        }
+      }
+    }
+  }
+
+  &.partnersContainer {
+    gap: 24px;
+    width: 500vw;
+
+    & a {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 35px;
+
+      & > img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+      }
+    }
+
+    @media (min-width: $tablet) {
+      gap: 22px;
+
+      & a {
+        height: 51px;
+      }
+    }
+
+    @media (min-width: $desktop) {
+      & a {
+        height: 70px;
+      }
+    }
+
+    &.mobileTarget {
+      &.page0 {
+        left: 0;
+      }
+
+      &.page1 {
+        left: calc(-100vw + 8px);
+      }
+
+      &.page2 {
+        left: calc(-200vw + 2 * 8px);
+      }
+
+      &.page3 {
+        left: calc(-300vw + 3 * 8px);
+      }
+
+      &.page4 {
+        left: calc(-400vw + 4 * 8px);
+      }
+
+      & > a {
+        width: calc((100vw - 2 * 16px - 3 * 24px) / 4);
+      }
+    }
+
+    &.tabletTarget,
+    &.desktopTarget {
+      &.page0 {
+        left: 0;
+      }
+
+      &.page1 {
+        left: calc(-100vw + 46px);
+      }
+
+      &.page2 {
+        left: calc(-200vw + 2 * 46px);
+      }
+
+      &.page3 {
+        left: calc(-300vw + 3 * 46px);
+      }
+
+      &.page4 {
+        left: calc(-400vw + 4 * 46px);
+      }
+
+      & > a {
+        width: calc((100vw - 2 * 34px - 5 * 22px) / 6);
+      }
+    }
+
+    &.desktop_wideTarget {
+      &.page0 {
+        left: 0;
+      }
+
+      &.page1 {
+        left: calc(-1440px + 128px);
+      }
+
+      &.page2 {
+        left: calc(-2 * 1440px + 2 * 128px);
+      }
+
+      &.page3 {
+        left: calc(-3 * 1440px + 3 * 128px);
+      }
+
+      &.page4 {
+        left: calc(-4 * 1440px + 4 * 128px);
+      }
+
+      & > a {
+        width: calc((1440px - 2 * 75px - 5 * 22px) / 6);
+      }
+    }
+  }
+}
+
+.dotsContainer {
+  display: flex;
+  gap: 0;
+
+  .dotButton {
+    background-color: transparent;
+    padding: 0 4px;
+    height: 16px;
+    cursor: pointer;
+  }
+
+  circle {
+    fill: $color-gray88;
+  }
+
+  .primarySelected {
+    circle {
+      fill: $color-hokey-pokey;
+    }
+  }
+
+  .secondarySelected {
+    circle {
+      fill: $color-woodland;
+    }
+  }
+}

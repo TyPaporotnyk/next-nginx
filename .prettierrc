@@ -1,0 +1,18 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "trailingComma": "all",
+  "singleQuote": true,
+  "semi": true,
+  "importOrder": [
+    "^(react|next)(/(.*))?$",
+    "<THIRD_PARTY_MODULES>",
+    "^(api|auth|components|infra|layouts|pages|public|services|shared)(/(.*))?$",
+    "(api|auth|components|atoms|helpers|molecules|infra|layouts|pages|public|services|shared)(/(.*))?$",
+    "((.*)/)?constants$",
+    "(.*).(scss|css)$"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "printWidth": 120
+}

@@ -1,0 +1,102 @@
+@import '@styles/main';
+
+.title {
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.multiplePosts {
+  display: flex;
+  flex-direction: row;
+
+  & > div:last-of-type {
+    display: none;
+  }
+
+  & > div {
+    flex-direction: row;
+    & > div:first-of-type {
+      width: 121px;
+    }
+
+    h4 {
+      font-family: $font-medium;
+      @include fontSizes(16px, 21px);
+
+      & + p {
+        display: none;
+      }
+    }
+  }
+}
+
+.sectionButton {
+  display: none;
+}
+
+@media (min-width: $tablet) {
+  .title {
+    margin-bottom: 34px;
+  }
+
+  .multiplePosts {
+    & > div {
+      & > div:first-of-type {
+        width: 217px;
+      }
+
+      h4 {
+        @include fontSizes(18px, 19px);
+        font-family: $font-heading;
+      }
+    }
+  }
+}
+
+@media (min-width: $desktop) {
+  .title {
+    margin-bottom: 54px;
+  }
+
+  .multiplePosts {
+    gap: 24px;
+
+    & > div {
+      width: calc(50% - 12px);
+
+      h4 {
+        @include fontSizes(22px, 24px);
+      }
+    }
+
+    & > div:last-of-type {
+      display: flex;
+    }
+
+    & > div > div:first-of-type {
+      width: 221px;
+    }
+  }
+}
+
+@media (min-width: $desktop-wide) {
+  .title {
+    margin-bottom: 54px;
+  }
+
+  .multiplePosts {
+    & > div {
+      gap: 24px;
+
+      & > div:first-of-type {
+        width: 305px;
+      }
+    }
+  }
+
+  .sectionButton {
+    display: flex;
+    justify-content: center;
+    margin: 60px auto 0;
+  }
+}

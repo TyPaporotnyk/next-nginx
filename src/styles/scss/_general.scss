@@ -1,0 +1,75 @@
+@import 'typography';
+@import 'colors';
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  @include text-typography(body);
+  position: relative;
+  overflow-x: auto;
+  margin: 0;
+  padding: 0;
+}
+
+#__next {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+button {
+  font-family: inherit;
+  border: none;
+  -webkit-appearance: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+h1 {
+  @include text-typography(h1);
+}
+
+h2 {
+  @include text-typography(h2);
+}
+
+h3 {
+  @include text-typography(h3);
+}
+
+h4 {
+  @include text-typography(h4);
+}
+
+h5 {
+  @include text-typography(h5);
+}
+
+h6 {
+  @include text-typography(h6);
+}
+
+a {
+  text-decoration: none;
+  @include text-typography(a);
+}
+
+p {
+  margin: 0;
+  @include text-typography(p);
+}

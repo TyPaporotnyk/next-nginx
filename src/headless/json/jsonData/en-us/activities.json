@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "a1",
+    "title": "Legal support and assistance",
+    "description": "<p>Representatives of families who need help with the preparation of documents, statuses, payments, etc. receive full legal support from the partners of the fund - the \"Ukrainian Center for the Protection of Human Rights\".</p><br><a target=\"_blank\" href=\"https://uhrc.org.ua\">uhrc.org.ua<a/>",
+    "type": "law",
+    "picture": {
+      "title": "",
+      "url": ""
+    },
+    "callToAction": {
+      "title": "Request",
+      "href": "/types-of-help?anchor=law_help"
+    }
+  },
+  {
+    "uid": "a2",
+    "title": "Humanitarian help",
+    "description": "<p>Dependent families often find themselves in a difficult financial situation when they lose a breadwinner, and the processing of proper payments is significantly delayed. We provide everything a family needs to live and arrange their home.</p>",
+    "type": "humanitarian",
+    "picture": {
+      "title": "",
+      "url": ""
+    },
+    "callToAction": {
+      "title": "I want to donate",
+      "href": "/types-of-help?anchor=humanitarian_help"
+    }
+  },
+  {
+    "uid": "a3",
+    "title": "Educational support",
+    "description": "<p>Children in the families of prisoners, missing persons and the dead should not suffer educational losses. As educational support, we already provide children with the opportunity to learn programming, English and prepare for a multi-subject test.</p>",
+    "type": "education",
+    "picture": {
+      "title": "",
+      "url": ""
+    },
+    "callToAction": {
+      "title": "I want to donate",
+      "href": "/types-of-help?anchor=education_help"
+    }
+  },
+  {
+    "uid": "a4",
+    "title": "Summer without war",
+    "description": "<p>Children from foster families are in dire need of psychological relief, rest, in order to find the strength to live on, learn, and create even for a moment. As part of the program, we offer children to relax on their own or with their parents abroad or in safe regions of Ukraine.</p>",
+    "type": "summer",
+    "picture": {
+      "title": "",
+      "url": ""
+    },
+    "callToAction": {
+      "title": "I want to donate",
+      "href": "/types-of-help?anchor=summer_help"
+    }
+  }
+]

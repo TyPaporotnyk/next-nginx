@@ -1,0 +1,39 @@
+@import '@styles/main';
+
+.infoBlock {
+  padding: 24px 0;
+  border-bottom: 2px solid $color-gray25;
+
+  @media (min-width: $tablet) {
+    padding: 32px 0;
+  }
+
+  &:last-of-type {
+    border: none;
+  }
+
+  a {
+    color: $color-link-blue;
+    text-decoration: underline;
+  }
+
+  button {
+    margin-top: 8px;
+  }
+}
+
+.spaceBlock {
+  height: 24px;
+
+  @media (min-width: $tablet) {
+    height: 32px;
+  }
+}
+
+.infoField {
+  font-family: $font-regular;
+
+  & > strong {
+    font-family: $font-medium;
+  }
+}

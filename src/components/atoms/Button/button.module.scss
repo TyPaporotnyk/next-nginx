@@ -1,0 +1,41 @@
+@import '@styles/main';
+
+.button {
+  color: $color-white;
+  background: $color-hokey-pokey;
+  font-family: $font-regular;
+  @include fontSizes(14px, 18px);
+  padding: 8px 16px;
+  text-align: center;
+  border-radius: 6px;
+  cursor: pointer;
+  
+  &:hover {
+    background: $color-serria;
+  }
+}
+
+.headerButton {
+  @media (min-width: $tablet) {
+    font-family: $font-medium;
+    @include fontSizes(20px, 26px);
+  }
+}
+
+.regularButton {
+  @media (min-width: $tablet) {
+    padding: 13px 18px;
+    @include fontSizes(16px, 21px);
+  }
+}
+
+.largeButton {
+  font-family: $font-medium;
+  padding: 12px 19px;
+  @include fontSizes(16px, 21px);
+  
+  @media (min-width: $tablet) {
+    padding: 16px 26px;
+    @include fontSizes(20px, 26px);
+  }
+}

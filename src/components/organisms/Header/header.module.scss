@@ -1,0 +1,200 @@
+@import '@styles/main';
+
+.headerOuterContainer {
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  width: 100%;
+  background-color: rgba($color-white, 0.6);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.05);
+  backdrop-filter: blur(10px);
+}
+
+.headerInnerContainer {
+  height: 62px;
+  padding: 16px;
+  margin: 0 auto;
+  max-width: 1440px;
+  display: flex;
+  align-items: center;
+
+  @media (min-width: $tablet) {
+    height: 92px;
+  }
+
+  @media (min-width: $desktop) {
+    padding: 26px 34px;
+  }
+
+  @media (min-width: $desktop-wide) {
+    padding: 20px 75px;
+  }
+}
+
+.inHeaderBarView {
+  display: none;
+
+  @media (min-width: $desktop-wide) {
+    display: flex;
+    gap: 28px;
+  }
+}
+
+.menuButton {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 54px;
+  height: 54px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+
+  &:hover {
+    opacity: 0.7;
+  }
+
+  @media (min-width: $tablet) {
+    right: 24px;
+  }
+
+  @media (min-width: $desktop) {
+    right: 34px;
+  }
+
+  @media (min-width: $desktop-wide) {
+    display: none;
+  }
+}
+
+.logo {
+  display: flex;
+  flex: 1;
+
+  img, a {
+    width: 97px;
+    height: 30px;
+  }
+  
+  @media (min-width: $tablet) {
+    img, a {
+      width: 128px;
+      height: 40px;
+    }
+  }
+}
+
+.navContainer {
+  display: flex;
+  align-items: center;
+  gap: 26px;
+  font-family: $font-regular;
+}
+
+.navLink {
+  color: $color-gray25;
+  @include fontSizes(16px, 22px);
+  padding-bottom: 4px;
+
+  &:hover {
+    opacity: 0.7;
+  }
+
+  &.selectedLink {
+    padding-bottom: 2px;
+    color: $color-hokey-pokey;
+    border-bottom: 2px solid $color-hokey-pokey;
+  }
+}
+
+.sideBarBg {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100vh;
+  z-index: 20;
+  background-color: rgba($color-white, 0.6);
+
+  &.visibleSideBarBg {
+    display: block;
+
+    @media (min-width: $desktop-wide) {
+      display: none;
+    }
+  }
+}
+
+.sideBarMenu {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: fixed;
+  background: $color-white;
+  top: 0;
+  right: -226px;
+  height: 100vh;
+  z-index: 21;
+  width: 226px;
+  transition: right 0.5s ease-out;
+  padding: 93px 10px 90px 44px;
+  gap: 28px;
+
+  &.visibleSideBarMenu {
+    right: 0;
+  }
+
+  @media (min-width: $tablet) {
+    padding: 128px 10px 60px 60px;
+    width: 372px;
+    right: -372px;
+  }
+
+  @media (min-width: $desktop) {
+    padding: 131px 10px 60px 163px;
+    width: 500px;
+    right: -500px;
+  }
+  
+  @media (min-width: $desktop-wide) {
+    display: none;
+  }
+
+  & nav {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+  }
+
+  .closeMenuButton {
+    position: absolute;
+    top: 4px;
+    right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 54px;
+    height: 54px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  
+    &:hover {
+      opacity: 0.7;
+    }
+  
+    @media (min-width: $tablet) {
+      top: 19px;
+      right: 24px;
+    }
+  
+    @media (min-width: $desktop) {
+      right: 34px;
+    }
+  }
+}

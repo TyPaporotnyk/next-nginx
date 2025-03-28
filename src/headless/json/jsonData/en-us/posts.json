@@ -1,0 +1,467 @@
+[
+  {
+    "uid": "1",
+    "title": "Who we are and our mission",
+    "subTitle": "",
+    "anchor": "",
+    "callToAction": {
+      "title": "About us",
+      "href": "/about-us"
+    },
+    "description": "<p>The world is filled with dreams, and they all revolve around VICTORY. They are about a world in which Ukraine will be a free and strong nation. This is all possible if we stand united. United in resistance, in the fight, and in defense. United in supporting those who need it the most. United in caring for those whose hearts are scorched by war.<br>The founder of the charitable foundation “Ukrainian Foundation “Mriya” is Yulia Payevskа, a paramedic, volunteer, and founder of the volunteer unit \"Angels of the Taira\".<br>Having returned from Russian captivity, she decided to dedicate herself to helping Ukraine and Ukrainians, particularly those whose relatives are in captivity, missing, or have perished. To give children dreams and motivation to live. To provide support to those who have lost their dearest in the war.</p>",
+    "leftPicturePositioning": true,
+    "picture": {
+      "title": "whoWeAre.png",
+      "url": "/whoWeAre.png"
+    },
+    "picturePlaceholder": "/placeholders/whoWeAre_ph.png",
+    "pictureHeightByTarget": {
+      "desktop": 406,
+      "desktop_wide": 514,
+      "mobile": 152,
+      "tablet": 247
+    },
+    "showLessLabel": "",
+    "showMoreLabel": ""
+  },
+  {
+    "uid": "2",
+    "title": "«We want more balls and to play football with you!»",
+    "sub_title": "",
+    "anchor": "football",
+    "callToAction": {
+      "title": "Read more",
+      "href": "/news?anchor=football"
+    },
+    "description": "<p>The children of Heroes spent the All-Ukrainian Football Day with the leaders of the Ukrainian Association of Football (UAF). The visit of future football players from different regions of the country was made possible thanks to the close cooperation of «Mriya» with UAF.</p><br><p>During the celebration, the children visited the trophy museum, took part in a football quiz, visited the hall of the UAF executive committee and played a match with the \"stars\" of Ukrainian football.</p><br><p>Balls and posters with the autograph of Oleksandr Zinchenko, football player of the London \"Arsenal\" and the Ukrainian national team, have already been sent to the children who could not come.</p><br><p>Children of prisoners of war, civilian prisoners and fallen heroes need the attention of society the most. Each of them should have an example to follow, keep dreaming and feel supported as they go towards their goal.</p>",
+    "leftPicturePositioning": true,
+    "picture": {
+      "title": "post_1.png",
+      "url": "/post_1.png"
+    },
+    "picturePlaceholder": "/placeholders/post_1_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 261,
+      "desktop": 364,
+      "desktop_wide": 474
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "3",
+    "title": "Applications are open for the \"Summer without war\" program for families of fallen soldiers and captured Ukrainians",
+    "subTitle": "",
+    "anchor": "summer",
+    "callToAction": {
+      "title": "Read more",
+      "href": "/news?anchor=summer"
+    },
+    "description": "<p>As part of the \"Summer without war\" program, the \"Dream\" fund will cover 100% of the cost of accommodation for 7 days and travel to resorts in Europe. If your family does not have the opportunity to go abroad or is waiting for the return of a soldier from captivity, we will be happy to provide you with a vacation in the Ukrainian Carpathians.</p><br><p>🇺🇦The collection of contacts has started, so if you want to participate in the \"Summer without war\" program, please fill out the form:</p><br><a href=\"https://forms.gle/8J1hpPdg8SXFFiCu5\" target=\"_blank\">https://forms.gle/8J1hpPdg8SXFFiCu5</a><br><p>💙💛Support the program for families of Heroes \"Summer without war\":</p><br><a href=\"https://send.monobank.ua/jar/94mz4qf8TW\" target=\"_blank\">https://send.monobank.ua/jar/94mz4qf8TW</a>",
+    "leftPicturePositioning": false,
+    "picture": {
+      "title": "post_2.png",
+      "url": "/post_2.png"
+    },
+    "picturePlaceholder": "/placeholders/post_2_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 261,
+      "desktop": 364,
+      "desktop_wide": 474
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "4",
+    "title": "Yulia Paevska (Tyra)",
+    "subTitle": "an Ukrainian servicewoman, volunteer, paramedic, and commander of the volunteer medical evacuation unit \"Tyra's Angels\"",
+    "anchor": "",
+    "callToAction": {
+      "title": "",
+      "href": ""
+    },
+    "description": "<p>Hello!</p><br><p>I am Yulia Paevska (Tyra) - a Ukrainian servicewoman, volunteer, paramedic, and commander of the volunteer medical evacuation unit \"Tyra's Angels.\" I am a former prisoner of war.</p><br><p>My voice, efforts, and energy are always dedicated to supporting Ukraine and its people. I am intolerant of lies and hypocrisy, and I am immensely inspired by the bravery and resilience of our defenders. I strive to assist the captives and their families, protect the interests of the liberated, and seek justice for military criminals.</p><br><p>In 2022, I founded the charitable foundation \"Mriya\" (Dream), which takes care of the families of fallen and captured heroes. Our goal is to ensure that children who have lost their loved ones to war do not lose faith in the future and in themselves, and find the strength to recover and develop personally.</p><br><p>I am honored to have received the Sakharov Prize for Freedom of Thought in the European Parliament, awarded to the brave people of Ukraine, as well as the international \"Woman of Courage\" award from the U.S. Department of State. I participated in the Ukrainian</p><br><p>Invictus Games and the U.S. Warrior Games, winning 2 gold medals and 1 bronze medal in Orlando. I was also included in the BBC's \"100 Women\" list in 2022.</p><br><p>All my achievements are dedicated to the fighters for freedom, democracy, and human rights.</p>",
+    "leftPicturePositioning": false,
+    "picture": {
+      "title": "taira.png",
+      "url": "/taira.png"
+    },
+    "picturePlaceholder": "/placeholders/taira_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 247,
+      "desktop": 532,
+      "desktop_wide": 750
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "5",
+    "title": "Tetiana Komlyk",
+    "subTitle": "the Executive Director of the \"Mriya\" Foundation",
+    "anchor": "",
+    "callToAction": {
+      "title": "",
+      "href": ""
+    },
+    "description": "<p>Hello!</p><br><p>I'm Tetiana Komlyk, the Executive Director of the \"Mriya\" Foundation, a volunteer, public figure, blogger, and children's writer.</p><br><p>My friends, readers, and subscribers know me as \"Tatusya BO.\" I have a wealth of professional experience: I have worked as a film director, journalist, educator, editor for a publishing house and several websites, PR director for a music band, screenwriter, and TV presenter.</p><br><p>I have authored four children's books and numerous texts for adults on various life observations. My literary arsenal consists of humor, irony, sarcasm, and grotesque, encompassing all shades of comedy.</p><br><p>I am known as a promoter of change in Ukrainian education, and it's true. As an educator by profession and a mother of two children, I see and experience all the gaps in the modern education system. In the\"Mriya\" Foundation, I specifically oversee educational support programs for our beneficiaries, such as foreign language courses, programming, preparation for national exams, and creative workshops.</p><br><p>Consistently, I advocate not only for reforms but also for a rethinking of the role of teachers and educators in our country. \"Pedagogy of the future\" is primarily about mutual respect, partnership, motivation, and the personal value of participants in the learning process. It is through these values that a generation capable of conquering the world can grow.</p>",
+    "leftPicturePositioning": true,
+    "picture": {
+      "title": "fondDirector.png",
+      "url": "/fondDirector.png"
+    },
+    "picturePlaceholder": "/placeholders/fondDirector_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 247,
+      "desktop": 532,
+      "desktop_wide": 700
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "6",
+    "title": "We are expanding the boundaries of partnership!",
+    "subTitle": "Unique in supporting those who need it the most.",
+    "anchor": "",
+    "callToAction": {
+      "title": "",
+      "href": ""
+    },
+    "description": "<p>The team of “Mriya” foundation and the Charitable Foundation \"Pislya Sluzhby\" have signed a Memorandum of Cooperation. This agreement opens up new opportunities for joint work in supporting the families of fallen soldiers and military captives.</p><br><p>The Charitable Foundation \"Pislya Sluzhby\" assists Ukrainian veterans in achieving success after their service. As part of their activities, they support defenders in all aspects of their lives, from addressing psychological issues to the process of rehabilitation and recovery, from assistance in finding employment to providing professional education.</p><br><p>The partnership between the \"Mriya\" Foundation and the Charitable Foundation \"Pislya Sluzhby\" will be strong support for families experiencing loss and hardships due to Russian aggression. We plan to organize joint assistance programs that will include various activities and initiatives for psychological rehabilitation and social support.</p><br><p>Together, we can achieve more! 💙💛</p>",
+    "leftPicturePositioning": false,
+    "picture": {
+      "title": "partnersDetails.png",
+      "url": "/partnersDetails.png"
+    },
+    "picturePlaceholder": "/placeholders/partnersDetails_ph.png",
+    "bannerPicture": {
+      "title": "partners.png",
+      "url": "/partners.png"
+    },
+    "bannerPlaceholder": "/placeholders/partners_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 217,
+      "desktop": 384,
+      "desktop_wide": 537
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "7",
+    "title": "Give Children of Heroes \"Summer Without War\"",
+    "subTitle": "",
+    "anchor": "",
+    "callToAction": {
+      "title": "",
+      "href": ""
+    },
+    "description": "<p>In the lives of children cared for by the \"Mriya\" Foundation, war has burst in with its most grotesque face. Taking away their fathers or mothers as captives, losing them amidst the fiery realms, shattering their dearest souls.</p><br><p>Our \"Mriya\" team is working on a large-scale program called \"Summer Without War\" and we call upon you to support this initiative.</p><br><p>💙💛 The goal of the program is to provide children and their mothers with a vacation in resort cities of Bulgaria, Greece, or Ukraine if the family cannot travel abroad or is waiting for their warrior's return. \"Summer Without War\" will cover 100% of accommodation for 7 days and transportation. The estimated cost per person is 14,268 UAH.</p><br><p>Our \"Mriya\" Foundation appeals to you with a request to financially support the organization of recreation and rehabilitation for the children of our Heroes. We ask you to give the children a small yet immense gift—a summer without war.</p><br><p>💙💛 Support the \"Summer Without War\" program for Heroes' families:</p><br><a target=\"_blank\" href=\"https://send.monobank.ua/jar/94mz4qf8TW\">https://send.monobank.ua/jar/94mz4qf8TW</a>",
+    "leftPicturePositioning": false,
+    "picture": {
+      "title": "summerDetails.png",
+      "url": "/summerDetails.png"
+    },
+    "picturePlaceholder": "/placeholders/summerDetails_ph.png",
+    "bannerPicture": {
+      "title": "summer.png",
+      "url": "/summer.png"
+    },
+    "bannerPlaceholder": "/placeholders/summer_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 217,
+      "desktop": 384,
+      "desktop_wide": 537
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "8",
+    "title": "The \"Zhovten\" Cinema has become a partner",
+    "subTitle": "",
+    "anchor": "",
+    "callToAction": {
+      "title": "",
+      "href": ""
+    },
+    "description": "<p>5 UAH from each ticket sold now goes as a donation to the \"Mriya\" Foundation. It may be a small amount, but by coming together, we can accomplish great things and bring a ray of hope to those who suffer the most from the consequences of war.</p><br><p>💙💛 By organizing charity screenings, we encouraged visitors to make their contribution to support the charitable project \"Summer Without War.\" It is designed for young Ukrainians whose parents, as servicemen, have either died or are in captivity, to inspire them to believe in the future again, to learn, to develop, and, most importantly, to live. The funds collected have been directed towards organizing vacations for children in European countries.</p><br><p>Together, we can do more! Together, we are changing the world!</p>",
+    "leftPicturePositioning": false,
+    "picture": {
+      "title": "cinemaDetails.png",
+      "url": "/cinemaDetails.png"
+    },
+    "picturePlaceholder": "/placeholders/cinemaDetails.png",
+    "bannerPicture": {
+      "title": "cinema.png",
+      "url": "/cinema.png"
+    },
+    "bannerPlaceholder": "/placeholders/cinema_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 217,
+      "desktop": 384,
+      "desktop_wide": 537
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "9",
+    "title": "Regional branches of the \"Mriya\" Foundation begin their operation.",
+    "subTitle": "",
+    "anchor": "summer",
+    "callToAction": {
+      "title": "",
+      "href": ""
+    },
+    "description": "<p>Kropyvnytskyi became the first city where a regional office of the \"Mriya\" Foundation was opened. This is an important step in our activities - to work for the support of others.</p><br></p>We will seek donors and responsible sponsors who are concerned about the socialization and development of children from families where parents, who were military servicemen, were killed or taken captive.</p><br></p>We have a lot of work ahead of us. The foundation is currently supporting over 2,000 children, and we have received nearly 5,000 requests for assistance overall. Therefore, the opening of regional branches provides opportunities for improving and expediting direct communication with those in need of protection at the local level.</p><br></p>Together, we are building a strong society where no one is left alone with the grief brought by war.</p>",
+    "leftPicturePositioning": true,
+    "picture": {
+      "title": "post_3.png",
+      "url": "/post_3.png"
+    },
+    "picturePlaceholder": "/placeholders/post_3_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 261,
+      "desktop": 364,
+      "desktop_wide": 474
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "10",
+    "title": "\"Destroy the Tank\" - Support for the Armed Forces of Ukraine and Military Families",
+    "subTitle": "",
+    "anchor": "summer",
+    "callToAction": {
+      "title": "",
+      "href": ""
+    },
+    "description": "<p>Female captives are a particularly vulnerable category, and their repatriation should be carried out unconditionally by the enemy. However, the Russian side, disregarding international norms and basic humanity, subjects Ukrainian captives to pressure, manipulation, and degrading conditions of detention.</p><br></p>The bitterness of the situation is intensified by the fact that the children suffer in the absence of their mothers who are in captivity. We strive to give them a glimpse of joy and moments of happiness. We are delighted to join forces with our wonderful partners - Diana Polyanychuk, the head of the charitable foundation and co-founder of the \"Destroy the Tank\" project, the Coordination Headquarters of the Military Intelligence Directorate of the Ministry of Defense, and the NGO \"Council of Wives and Mothers of Ukrainian Defenders 'Women of Steel'.\"</p><br></p>The idea of raising funds from colleagues is impressive in its creativity. The tank destroyed by our military was cut into small pieces, which were then transformed into stylish military souvenirs. These souvenirs are eagerly ordered and purchased by supporters of Ukraine worldwide, which has already allowed us to raise around 1.5 million UAH. These resources are directed towards supporting the Armed Forces and providing humanitarian assistance to those affected by Russian aggression, including the children of captive military personnel.</p><br></p>Founder of the \"Mriya\" Foundation, Yulia Payevka (\"Taira\"), personally received several of these souvenirs. She pledged to give these symbols of Russian military vulnerability to international friends who provide the most assistance to Ukraine in the fight for Victory. \"This is a fantastic initiative that demonstrates how sincerely and fervently people of goodwill unite to stop the Russian onslaught,\" emphasized Taira.</p><br></p>We are on our own land, drawing strength from it and caring for the Ukrainian future of our children.</p>",
+    "leftPicturePositioning": false,
+    "picture": {
+      "title": "post_4.png",
+      "url": "/post_4.png"
+    },
+    "picturePlaceholder": "/placeholders/post_4_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 261,
+      "desktop": 364,
+      "desktop_wide": 474
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "11",
+    "title": "Humanitarian help",
+    "subTitle": "",
+    "anchor": "humanitarian_help",
+    "callToAction": {
+      "title": "",
+      "href": ""
+    },
+    "description": "<p>Підопічні родини часто потрапляють у скрутне фінансове становище, коли втрачають годувальника, а оформлення належних виплат суттєво затримується. Одяг, взуття, продукти харчування, засоби гігієни - ми надаємо все, чого потребує родина для життя та облаштування побуту.</p><p>Станом на початок липня 2023 року ми зібрали 5,4 млн грн, завдяки підтримці небайдужих українців. Кожна гривня, переказана на наш рахунок, стала цінним внеском у підтримку сімей загиблих воїнів і полонених українців.</p><p>Наша місія - забезпечити родини, які потрапили в складні ситуації, необхідними ресурсами для покращення їх життя. Ми глибоко переконані, що допомога не обмежується лише монетарними коштами, тому ми активно працюємо над наданням всебічної допомоги сім'ям у складних обставинах. Завдяки щедрості наших партнерів та благодійників, ми забезпечили технікою та гаджетами майже 150</p>",
+    "leftPicturePositioning": true,
+    "picture": {
+      "title": "humanitarian_help.png",
+      "url": "/humanitarian_help.png"
+    },
+    "picturePlaceholder": "/placeholders/humanitarian_help_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 261,
+      "desktop": 275,
+      "desktop_wide": 474
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "12",
+    "title": "Legal support and assistance",
+    "subTitle": "",
+    "anchor": "law_help",
+    "callToAction": {
+      "title": "",
+      "href": ""
+    },
+    "description": "<p>Представники сімей загиблих воїнів, зниклих безвісти та полонених українців, які потребують допомоги з оформленням документів, отриманням статусів, виплат та з інших правових питань, отримують правову допомогу і супровід від нашого партнера - <a href=\"https://uhrc.org.ua\" target=\"_blank\">Українського центру захисту прав людини</a>. Юристи та фахівці у сфері соціального захисту забезпечують індивідуальний підхід до розгляду кожного звернення.</p><p>Український центр захисту прав людини від моменту співпраці з Українською фундацією “Мрія” вже допоміг понад 750 родинам у розшуку зниклих безвісти захисників і захисниць, понад 450 родин військовополонених і цивільних бранців, загиблих воїнів отримали допомогу з оформленням статусів, належних виплат і пільг.</p><br><a href=\"https://uhrc.org.ua\" target=\"_blank\">uhrc.org.ua</a>",
+    "leftPicturePositioning": false,
+    "picture": {
+      "title": "law_help.png",
+      "url": "/law_help.png"
+    },
+    "picturePlaceholder": "/placeholders/law_help_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 261,
+      "desktop": 275,
+      "desktop_wide": 474
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "13",
+    "title": "Educational support",
+    "subTitle": "",
+    "anchor": "education_help",
+    "callToAction": {
+      "title": "",
+      "href": ""
+    },
+    "description": "<p>Діти, які опинилися у складних життєвих обставинах через загибель чи зникнення безвісти батьків, не повинні стикатися з втратами у сфері освіти. Відтак, наш фонд здійснює освітні ініціативи, які надають дітям у наших підопічних родинах додаткову підтримку та можливості для розвитку: вивчення програмування, англійської мови та підготовка до державних іспитів.</p><p>Наша освітня програма включає курси програмування для дітей. Наразі їх проходять діти з понад 80-ти сімей. Вони отримують можливість розширити свої знання та навички в цій сфері, завдяки партнерству з IT гігантом \"EPAM\". Дана ініціатива допомагає дітям розвивати свої технологічні здібності та готуватися до майбутніх викликів в інформаційному суспільстві.</p><p>Також ми доклали зусиль, щоб 200 дітей могли навчатися англійської мови. Ми віримо, що знання англійської мови є важливим ресурсом для їх майбутнього успіху,</p>",
+    "leftPicturePositioning": true,
+    "picture": {
+      "title": "education_help.png",
+      "url": "/education_help.png"
+    },
+    "picturePlaceholder": "/placeholders/education_help_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 261,
+      "desktop": 275,
+      "desktop_wide": 474
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "14",
+    "title": "Summer without war",
+    "subTitle": "",
+    "anchor": "summer_help",
+    "callToAction": {
+      "title": "",
+      "href": ""
+    },
+    "description": "<p>Діти з родин, які ми підтримуємо, дуже потребують психологічного розвантаження та можливості насолодитися відпочинком, щоб на хвилинку забути про турботи та знайти сили для продовження свого життя, навчання та творчості. Саме тому, у рамках нашої програми “Літо без війни”, ми пропонуємо дітям та їхнім батькам можливість провести час за кордоном або в безпечних регіонах України.</p><p>На сьогодні, ми вже відправили у Грецію та Болгарію 123 дитини разом з їх мамами. І це ще не кінець, адже ми забронювали ще 100 місць на ці напрямки до кінця літа. Ми робимо все можливе, щоб забезпечити дітям необхідний відпочинок та приємні враження, щоб вони мали можливість зарядитися позитивною енергією та пережити незабутні моменти разом зі своїми рідними.</p>",
+    "leftPicturePositioning": false,
+    "picture": {
+      "title": "summer_help.png",
+      "url": "/summer_help.png"
+    },
+    "picturePlaceholder": "/placeholders/summer_help.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 261,
+      "desktop": 275,
+      "desktop_wide": 474
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "21",
+    "title": "We are expanding",
+    "subTitle": "",
+    "anchor": "",
+    "callToAction": {
+      "title": "",
+      "href": ""
+    },
+    "description": "<p>We aim to be closer to the families in need of support, which is why the \"Mriya\" Foundation is constantly expanding its network of branches. </p><br><p>Recently, the foundation has begun its work in Uzhhorod, as well as in the cities of Shostka in Sumy region and Smila in Cherkasy region. Regional offices are already operating in 16 regions.</p><br><p>For families who have lost their defenders in the war, it's not just material assistance that matters. They lack warm communication, qualified advice, and support in their future life steps. Children need care and encouragement so they don't lose faith in themselves and the world.</p><br><p>That's why \"Mriya\" unites volunteer and charitable organizations, expands partnerships with responsible businesses and local government authorities. Together, we can do more for Ukrainians who are currently facing the greatest hardships.</p>",
+    "leftPicturePositioning": false,
+    "picture": {
+      "title": "post_21.png",
+      "url": "/post_21.png"
+    },
+    "picturePlaceholder": "/placeholders/post_21_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 261,
+      "desktop": 275,
+      "desktop_wide": 474
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "23",
+    "title": "Interesting education",
+    "subTitle": "",
+    "anchor": "",
+    "callToAction": {
+      "title": "",
+      "href": ""
+    },
+    "description": "<p>”\"Mriya\" takes care of the educational support for our young wards. One of our top priorities is to provide interesting and diverse leisure activities during breaks from learning. </p><br><p>Recently, the Water Museum in Kyiv, at the request of our foundation, organized a free tour for the families of fallen and captured defenders. Exciting stories, little-known facts about the water supply systems of the capital, experiments and water-related demonstrations made it a truly educational experience.</p><br><p>\"We try to organize such events for families as often as possible. Currently, 50 families from Kyiv and its suburbs are actively engaged in our extracurricular education program. And this is only in Kyiv and the surrounding areas. If we look at the entire country, it's already hundreds of Ukrainians, as our regional offices are also actively organizing recreational activities for the children of our Heroes,\" noted the Executive Director of the foundation, Tetiana Komlyk (Tatusya Bo).</p><br><p>Joint family tours also serve a therapeutic purpose. \"The kids come, of course, with their mothers, for whom this is an excellent opportunity to take a break from daily chores and routines,\" added Tatusya Bo.</p>",
+    "leftPicturePositioning": true,
+    "picture": {
+      "title": "post_23.png",
+      "url": "/post_23.png"
+    },
+    "picturePlaceholder": "/placeholders/post_23_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 261,
+      "desktop": 275,
+      "desktop_wide": 474
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "24",
+    "title": "Rehabilitation of our soldiers",
+    "subTitle": "",
+    "anchor": "",
+    "callToAction": {
+      "title": "Read more",
+      "href": "/news?anchor=post_24"
+    },
+    "description": "<p>The rehabilitation of soldiers after injuries is a lengthy process that requires strength, faith, and patience. </p><br><p>The team of the Ukrainian \"Mriya\" Foundation visited the Rivne Regional Hospital, where indomitable warriors who were wounded while defending our country are undergoing treatment. </p><br><p>For them, we brought electric toothbrushes from our partner ROZETKA and adaptive clothing designed to be easy to put on and take off, even with physical limitations. </p><br><p>We deeply appreciate and respect our defenders for their dedication to the country! Today, when they need support, we stand by their side. </p><br><p>War leaves terrible scars on the physical and mental body of society. Therefore, we must do everything to endure, promote the socialization of veterans, and ensure fair treatment from the state.</p>",
+    "leftPicturePositioning": false,
+    "picture": {
+      "title": "post_24.png",
+      "url": "/post_24.png"
+    },
+    "picturePlaceholder": "/placeholders/post_24_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 261,
+      "desktop": 275,
+      "desktop_wide": 474
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  },
+  {
+    "uid": "25",
+    "title": "Time of change",
+    "subTitle": "",
+    "anchor": "",
+    "callToAction": {
+      "title": "Read more",
+      "href": "/news?anchor=post_25"
+    },
+    "description": "<p>Every war is also an opportunity. An opportunity to change the country, to rebuild it from scratch, believes Yuri Hudyimenko.</p><br><p>The author of the book \"Histories and Wars\" presented this idea during a meeting with the public in Rivne. The presentation of Hudyimenko's collection brought together volunteers, veterans, and many others concerned about Ukraine's future and its heroic defenders.</p><br><p>\"When you lose your right hand, you realize that your life will never be the same as before. Many people who remained whole and undamaged think they have no scars. But they do - in their heads. The war has 'shrunken' a significant part of society. My dream is for everyone to understand this and stop trying to rebuild old structures. We need to create something new, implement bold ideas, and move forward,\" emphasized Yuri Hudyimenko.</p><br><p>According to the military man, many people in power do not understand how to deal with the new challenges of society. Therefore, public initiatives need to be promoted persistently. This also applies to how veterans are treated, social support, and communication etiquette with them.</p><br><p>The evening traditionally ended with an autograph session with the author, group photos, and friendly hugs. All the funds raised from book sales were donated to the \"Mriya\" charitable foundation.</p>",
+    "leftPicturePositioning": true,
+    "picture": {
+      "title": "post_25.png",
+      "url": "/post_25.png"
+    },
+    "picturePlaceholder": "/placeholders/post_25_ph.png",
+    "pictureHeightByTarget": {
+      "mobile": 152,
+      "tablet": 261,
+      "desktop": 275,
+      "desktop_wide": 474
+    },
+    "showLessLabel": "Less",
+    "showMoreLabel": "More"
+  }
+]

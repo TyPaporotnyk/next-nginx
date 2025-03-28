@@ -1,0 +1,12 @@
+@import '@styles/main';
+
+.linkContainer {
+  position: relative;
+  padding-left: 24px;
+  
+  svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}

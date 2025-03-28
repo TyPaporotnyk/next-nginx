@@ -1,0 +1,314 @@
+[
+  {
+    "uid": "c1",
+    "title": "Регіональне представництво у Закарпатській області",
+    "city": "Хуст",
+    "email": "Zakarpatska@mriyaukraine.com.ua",
+    "address": "90400, Закарпатська обл., м. Хуст, вул. Добрянського, 17Б",
+    "googleMapLink": "https://maps.app.goo.gl/ZuAU5u3WUPXJbDTj8",
+    "picture": "/c1.png",
+    "phone": "+380960031121",
+    "socialRefs": [
+      {
+        "type": "fb",
+        "href": "https://www.facebook.com/mriyazakarpattia"
+      },
+      {
+        "type": "insta",
+        "href": "https://instagram.com/mriya.zakarpattia?igshid=MzRlODBiNWFlZA=="
+      },
+      {
+        "type": "ttok",
+        "href": "https://www.tiktok.com/@mriya.zakarpattia?_t=8ej7BYMxLHd&_r=1"
+      }
+    ]
+  },
+  {
+    "uid": "c2",
+    "title": "Регіональне представництво у Запорізькій області",
+    "city": "Запоріжжя",
+    "email": "zaporizhzhia@mriyaukraine.com.ua",
+    "address": "69032, м. Запоріжжя, вул. Сержанта Мєдведєва, 6, оф. 26",
+    "googleMapLink": "https://maps.app.goo.gl/UeHebnDoYgSmn13NA",
+    "picture": "/c2.png",
+    "phone": "+380977893109",
+    "socialRefs": [
+      {
+        "type": "fb",
+        "href": "https://www.facebook.com/profile.php?id=61550219021563  "
+      },
+      {
+        "type": "insta",
+        "href": "https://instagram.com/mriyazaporizhzhya?igshid=MzRlODBiNWFlZA=="
+      },
+      {
+        "type": "ttok",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "uid": "c3",
+    "title": "Регіональне представництво у Івано-Франківській області",
+    "city": "Івано-Франківськ",
+    "email": "Ivano-Frankivsk@mriyaukraine.com.ua",
+    "address": "76014, м. Івано-Фракнівськ, вул. Барнича, 4",
+    "googleMapLink": "https://maps.app.goo.gl/dzgNvSk8M6W4Btx3A",
+    "picture": "/c3.png",
+    "phone": "+380972461497, +380665142858",
+    "socialRefs": [
+      {
+        "type": "fb",
+        "href": "https://www.facebook.com/mriia.ivanofrankivsk"
+      },
+      {
+        "type": "insta",
+        "href": "https://www.instagram.com/mriia.if/"
+      },
+      {
+        "type": "ttok",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "uid": "c4",
+    "title": "Регіональне представництво у Кіровоградській області",
+    "city": "Кропивницький",
+    "email": "kirovohrad@mriyaukraine.com.ua",
+    "address": "25006, м. Кропивницький, вул. Євгена Чикаленка 1А, оф 306",
+    "googleMapLink": "https://maps.app.goo.gl/p9v7nueXh9CxF74t9",
+    "picture": "/c4.png",
+    "phone": "+380990157181",
+    "socialRefs": [
+      {
+        "type": "fb",
+        "href": "https://www.facebook.com/profile.php?id=100092731576183"
+      },
+      {
+        "type": "insta",
+        "href": "https://instagram.com/mriia.krop?igshid=MzRlODBiNWFlZA=="
+      },
+      {
+        "type": "ttok",
+        "href": "https://www.tiktok.com/@mriya_krop?_t=8fSeurGPILF&_r=1"
+      }
+    ]
+  },
+  {
+    "uid": "c5",
+    "title": "Регіональне представництво у Львівській області",
+    "city": "Львів",
+    "email": "lviv@mriyaukraine.com.ua",
+    "address": "",
+    "googleMapLink": "",
+    "picture": "",
+    "phone": "+38097 02 598 20",
+    "socialRefs": [
+      {
+        "type": "fb",
+        "href": "https://www.facebook.com/profile.php?id=100093723355040"
+      },
+      {
+        "type": "insta",
+        "href": ""
+      },
+      {
+        "type": "ttok",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "uid": "c6",
+    "title": "Регіональне представництво у Полтавській області",
+    "city": "Полтава",
+    "email": "Poltava@mriyaukraine.com.ua",
+    "address": "39600, м. Кременчук, площа Перемоги 9/1",
+    "googleMapLink": "https://maps.app.goo.gl/G1t2jybpEYaydMEA7",
+    "picture": "/c6.png",
+    "phone": "",
+    "socialRefs": [
+      {
+        "type": "fb",
+        "href": "https://www.facebook.com/profile.php?id=100094119605111"
+      },
+      {
+        "type": "insta",
+        "href": "https://www.instagram.com/mriya.poltavshyna"
+      },
+      {
+        "type": "ttok",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "uid": "c7",
+    "title": "Регіональне представництво у Рівненській області",
+    "city": "Рівне",
+    "email": "Rivne@mriyaukraine.com.ua",
+    "address": "33000 М.Рівне, вул Київська 10 б ,офіс 1",
+    "googleMapLink": "https://maps.app.goo.gl/8XMhjdS6zL6zukEKA",
+    "picture": "/c7.png",
+    "phone": "+380950188707",
+    "socialRefs": [
+      {
+        "type": "fb",
+        "href": "https://www.facebook.com/profile.php?id=100093284804207"
+      },
+      {
+        "type": "insta",
+        "href": "https://instagram.com/mriya.rivne?igshid=MzRlODBiNWFlZA=="
+      },
+      {
+        "type": "ttok",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "uid": "c8",
+    "title": "Регіональне представництво у Сумській області",
+    "city": "Суми",
+    "email": "sumy@mriyaukraine.com.ua",
+    "address": "40000, м.Суми, пл.Незалежності, 3",
+    "googleMapLink": "https://maps.app.goo.gl/EJSv6qci7Pj7as9S9",
+    "picture": "/c8.png",
+    "phone": "+380950565824",
+    "socialRefs": [
+      {
+        "type": "fb",
+        "href": "https://www.facebook.com/profile.php?id=61550536408562 "
+      },
+      {
+        "type": "insta",
+        "href": "https://instagram.com/mriya.sumy?igshid=MzRlODBiNWFlZA=="
+      },
+      {
+        "type": "ttok",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "uid": "c9",
+    "title": "Регіональне представництво у Тернопільській області",
+    "city": "Тернопіль",
+    "email": "ternopil@mriyaukraine.com.ua ",
+    "address": "46006, м. Тернопіль, вул. Торговиця, 11. 1 поверх. БЦ Збруч",
+    "googleMapLink": "https://maps.app.goo.gl/6auTzpVAorvyVVRY8",
+    "picture": "/c9.png",
+    "phone": "+380939727077",
+    "socialRefs": [
+      {
+        "type": "fb",
+        "href": "https://www.facebook.com/mriya.ternopil"
+      },
+      {
+        "type": "insta",
+        "href": "https://instagram.com/mriya.ternopil?igshid=MzRlODBiNWFlZA=="
+      },
+      {
+        "type": "ttok",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "uid": "c10",
+    "title": "Регіональне представництво у Херсонській області",
+    "city": "Херсон",
+    "email": "kherson@mriyaukraine.com.ua",
+    "address": "",
+    "googleMapLink": "",
+    "picture": "",
+    "phone": "+380960568382",
+    "socialRefs": [
+      {
+        "type": "fb",
+        "href": ""
+      },
+      {
+        "type": "insta",
+        "href": ""
+      },
+      {
+        "type": "ttok",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "uid": "c11",
+    "title": "Регіональне представництво у Хмельницькій області",
+    "city": "Хмельницький",
+    "email": "khmelnytskyi@mriyaukraine.com.ua",
+    "address": "",
+    "googleMapLink": "",
+    "picture": "",
+    "phone": "+380983337994",
+    "socialRefs": [
+      {
+        "type": "fb",
+        "href": "https://www.facebook.com/profile.php?id=100093176589906"
+      },
+      {
+        "type": "insta",
+        "href": "https://instagram.com/mriya.khmelnytskyi?igshid=MzRlODBiNWFlZA=="
+      },
+      {
+        "type": "ttok",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "uid": "c12",
+    "title": "Регіональне представництво у Черкаській області",
+    "city": "Черкаси",
+    "email": "Cherkasy@mriyaukraine.com.ua",
+    "address": "",
+    "googleMapLink": "",
+    "picture": "",
+    "phone": "+380938405235",
+    "socialRefs": [
+      {
+        "type": "fb",
+        "href": "https://www.facebook.com/profile.php?id=61550188423200"
+      },
+      {
+        "type": "insta",
+        "href": "https://www.instagram.com/mriya_cherkassy/"
+      },
+      {
+        "type": "ttok",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "uid": "c13",
+    "title": "Регіональне представництво у Чернівецькій області",
+    "city": "Чернівці",
+    "email": "chernivtsi@mriyaukraine.com.ua",
+    "address": "58002  м.Чернівці, площа Соборна 9",
+    "googleMapLink": "https://maps.app.goo.gl/LPx3KWCfZyzLkSx86",
+    "picture": "/c13.png",
+    "phone": "+380950371319",
+    "socialRefs": [
+      {
+        "type": "fb",
+        "href": "https://www.facebook.com/profile.php?id=100095228918705"
+      },
+      {
+        "type": "insta",
+        "href": "https://instagram.com/mriya.chernivtsi?igshid=MzRlODBiNWFlZA=="
+      },
+      {
+        "type": "ttok",
+        "href": ""
+      }
+    ]
+  }
+]

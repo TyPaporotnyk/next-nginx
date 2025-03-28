@@ -1,0 +1,30 @@
+@import '@styles/main';
+
+.backButton {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 12px;
+
+  & > div {
+    color: $color-hokey-pokey;
+    @include fontSizes(16px, 18px);
+  }
+
+  @media (min-width: $tablet) {
+    position: absolute;
+    top: 135px;
+
+    & > div {
+      @include fontSizes(20px, 24px);
+    }
+  }
+
+  @media (min-width: $desktop) {
+    top: 145px;
+
+    & > div {
+      @include fontSizes(24px, 26px);
+    }
+  }
+}

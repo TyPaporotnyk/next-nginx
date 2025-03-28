@@ -1,0 +1,22 @@
+@import '@styles/main';
+
+.selectWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+
+  & svg {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 5px;
+  }
+}
+
+.selectLangContainer {
+  background-color: transparent;
+  padding-left: 20px;
+  height: 26px;
+  width: 63px;
+  border-radius: 6px;
+}

@@ -1,0 +1,409 @@
+[
+  {
+    "title": "Mriya Foundation",
+    "showTitle": false,
+    "url": "/",
+    "locale": "en-us",
+    "pageComponents": [
+      {
+        "uid": "hero_banner_section",
+        "props": {
+          "posts": ["8", "6", "7"],
+          "callToAction": {
+            "title": "Learn more",
+            "href": "/banner"
+          }
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "1",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      },
+      {
+        "uid": "support_us_section",
+        "props": {
+          "title": "To give children a dream and an incentive for life<br>To support those who lost relatives in the war",
+          "actionLink": {
+            "title": "Support us",
+            "href": "/support-us"
+          },
+          "sectionBgColor": "#3d5d25",
+          "sectionTextColor": "#ffffff"
+        }
+      },
+      {
+        "uid": "section_with_posts",
+        "props": {
+          "title": "News",
+          "posts": ["25", "24"],
+          "sectionCallToAction": {
+            "title": "Read all news",
+            "href": "/news"
+          },
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      },
+      {
+        "uid": "areas_of_activity_section",
+        "props": {
+          "titleFirstLine": "Every hryvnia is important<br>Only you can support our projects",
+          "activities": ["a1", "a2", "a3", "a4"],
+          "sectionBgColor": "#3d5d25",
+          "sectionTextColor": "#fff",
+          "isTopSection": false
+        }
+      },
+      {
+        "uid": "partners_section",
+        "props": {
+          "title": "Partners",
+          "partners": [
+            "p1",
+            "p2",
+            "p3",
+            "p4",
+            "p5",
+            "p6",
+            "p7",
+            "p8",
+            "p9",
+            "p10",
+            "p11",
+            "p12",
+            "p13",
+            "p14",
+            "p15",
+            "p16",
+            "p17",
+            "p18",
+            "p19",
+            "p20"
+          ],
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      }
+    ]
+  },
+  {
+    "title": "Mriya Foundation",
+    "showTitle": false,
+    "url": "/banner",
+    "locale": "en-us",
+    "pageComponents": [
+      {
+        "uid": "hero_details_section",
+        "props": {
+          "posts": ["6", "7", "8"],
+          "backButtonLabel": "Back",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": true
+        }
+      }
+    ]
+  },
+  {
+    "title": "About us",
+    "showTitle": false,
+    "url": "/about-us",
+    "locale": "en-us",
+    "pageComponents": [
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "4",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": true
+        }
+      },
+      {
+        "uid": "support_us_section",
+        "props": {
+          "title": "To give children a dream and an incentive for life<br>To support those who lost relatives in the war",
+          "actionLink": {
+            "title": "Support us",
+            "href": "/support-us"
+          },
+          "sectionBgColor": "#3d5d25",
+          "sectionTextColor": "#ffffff"
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "5",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      }
+    ]
+  },
+  {
+    "title": "News",
+    "showTitle": true,
+    "url": "/news",
+    "locale": "en-us",
+    "pageComponents": [
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "25",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": true
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "24",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      },
+      {
+        "uid": "support_us_section",
+        "props": {
+          "title": "To give children a dream and an incentive for life<br>To support those who lost relatives in the war",
+          "actionLink": {
+            "title": "Support us",
+            "href": "/support-us"
+          },
+          "sectionBgColor": "#3d5d25",
+          "sectionTextColor": "#ffffff"
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "23",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "21",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      }
+    ]
+  },
+  {
+    "title": "Every hryvnia is important<br>Only you can support our projects",
+    "showTitle": true,
+    "url": "/types-of-help",
+    "locale": "en-us",
+    "pageComponents": [
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "11",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": true
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "12",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      },
+      {
+        "uid": "support_us_section",
+        "props": {
+          "title": "To give children a dream and an incentive for life<br>To support those who lost relatives in the war",
+          "actionLink": {
+            "title": "Support us",
+            "href": "/support-us"
+          },
+          "sectionBgColor": "#3d5d25",
+          "sectionTextColor": "#ffffff"
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "13",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "14",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      }
+    ]
+  },
+  {
+    "title": "Application for support for the families of<br>the dead, missing and captured defenders",
+    "showTitle": true,
+    "url": "/ask-for-help",
+    "locale": "en-us",
+    "pageComponents": [
+      {
+        "uid": "ask_for_help_info_section",
+        "props": {
+          "description": "<p>It is necessary to fill out the application according to the needs of the applicant - <a href=\"https://forms.gle/tQfZTtFWmGhRe76J8\" target=\"_blank\">form</a>.</p><br><p>If you need legal assistance with the preparation of documents certifying the status of the Defender, please contact <a href=\"https://uhrc.org.ua\" target=\"_blank\">Ukrainian Center for the Protection of Human Rights</a> with which we cooperate under the numbers<br><strong>0 800 33 07 09 or 050 75 444 08< /strong></p><br><p>For additional questions, contact: <address>foundation.mriya@gmail.com</address></p>",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": true
+        }
+      }
+    ]
+  },
+  {
+    "title": "Contacts",
+    "showTitle": true,
+    "url": "/contacts",
+    "locale": "en-us",
+    "pageComponents": [
+      {
+        "uid": "contacts_section",
+        "props": {
+          "contactsList": ["c1", "c2", "c3", "c4", "c5", "c6", "c7", "c8", "c9", "c10", "c11", "c12", "c13"],
+          "searchPlaceholder": "Search by region",
+          "notFoundText": "No contact found",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": true
+        }
+      }
+    ]
+  },
+  {
+    "title": "Payment Details",
+    "showTitle": true,
+    "url": "/support-us",
+    "locale": "en-us",
+    "pageComponents": [
+      {
+        "uid": "payments_details_info",
+        "props": {
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": true,
+          "dataBlocks": [
+            {
+              "blockTitle": "UAH",
+              "data": [
+                { "title": "Recipient: MRIYA UKRAINE FOUNDATION", "description": "CHARITABLE ORGANIZATION" },
+                "br",
+                { "title": "Registration number:", "description": "45083663" },
+                { "title": "Company address:", "description": "Saksahanskoho str. 74B, ofc. 11, Kyiv, 01032, Ukraine" },
+                { "title": "Email:", "description": "foundation.mriya@gmail.com" },
+                { "title": "Purpose of payment:", "description": "Charitable donation" },
+                "br",
+                { "title": "Mono Bank"},
+                { "buttonHref": "https://send.monobank.ua/jar/A61E7F4chX", "label": "Donate" }
+              ]
+            },
+            {
+              "blockTitle": "USD",
+              "data": [
+                { "title": "MRIYA UKRAINE FOUNDATION", "description": "CHARITABLE ORGANIZATION" },
+                { "title": "IBAN:", "description": "UA483052990000026004006250660" },
+                "br",
+                { "title": "Beneficiary's bank:", "description": "JSC CB \"PRIVATBANK\"" },
+                { "title": "Bank address:", "description": "1D HRUSHEVSKOHO STR., KYIV, 01001, UKRAINE" },
+                { "title": "SWIFT Code:", "description": "PBANUA2X" },
+                { "title": "Description:", "description": "Charitable donation" },
+                "br",
+                { "title": "Company address:", "description": "Saksahanskoho str. 74B, ofc. 11, Kyiv, 01032, Ukraine" },
+                { "title": "Email:", "description": "foundation.mriya@gmail.com" },
+                { "title": "Registration number:", "description": "45083663" },
+                "br",
+                { "title": "Correspondent bank:", "description": "JP Morgan Chase Bank" },
+                { "title": "Bank address:", "description": "New York, USA" },
+                { "title": "SWIFT code:", "description": "CHASUS33" },
+                { "title": "Correspondent account:", "description": "001-1-000080" }
+              ]
+            },
+            {
+              "blockTitle": "EUR",
+              "data": [
+                { "title": "MRIYA UKRAINE FOUNDATION", "description": "CHARITABLE ORGANIZATION" },
+                { "title": "IBAN:", "description": "UA353052990000026002016238276" },
+                "br",
+                { "title": "Beneficiary's bank:", "description": "JSC CB \"PRIVATBANK\"" },
+                { "title": "Bank address:", "description": "1D HRUSHEVSKOHO STR., KYIV, 01001, UKRAINE" },
+                { "title": "SWIFT Code:", "description": "PBANUA2X" },
+                { "title": "Description:", "description": "Charitable donation" },
+                "br",
+                { "title": "Company address:", "description": "Saksahanskoho str. 74B, ofc. 11, Kyiv, 01032, Ukraine" },
+                { "title": "Email:", "description": "foundation.mriya@gmail.com" },
+                { "title": "Registration number:", "description": "45083663" },
+                "br",
+                { "title": "Correspondent bank:", "description": "Commerzbank AG" },
+                { "title": "Bank address:", "description": "Frankfurt am Main, Germany" },
+                { "title": "SWIFT code:", "description": "COBADEFF" },
+                { "title": "Correspondent account:", "description": "400886700401" }
+              ]
+            },
+            {
+              "blockTitle": "PayPal",
+              "data": [
+                { "description": "paypfort@gmail.com" },
+                { "title": "In \"Payment type\" - \"For friends and family\"" }
+              ]
+            },
+            {
+              "blockTitle": "Crypto",
+              "data": [
+                { "title": "Tron (TRX)" },
+                { "description": "TNtMQW4N8FbrbKVN7ybG33jWriqNmLTp7Y" },
+                "br",
+                { "title": "Tether (USDT)" },
+                { "description": "TNtMQW4N8FbrbKVN7ybG33jWriqNmLTp7Y" },
+                "br",
+                { "title": "Bitcoin" },
+                { "description": "bc1q9cq90wg0anfcgya3ar3z3jugtvyr8t446gqm02" }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "Page Not Found",
+    "showTitle": false,
+    "url": "/404",
+    "locale": "en-us",
+    "pageComponents": [
+      {
+        "uid": "page_not_found_content",
+        "props": {
+          "title": "Oh wait, it seems we can't fulfill your request((",
+          "subTitle": "An error occurred and the page you are looking for has been removed or is currently unavailable"
+        }
+      }
+    ]
+  }
+]

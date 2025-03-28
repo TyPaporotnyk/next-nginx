@@ -1,0 +1,38 @@
+{
+  "callToAction": {
+    "title": "Донат",
+    "href": "/support-us"
+  },
+  "locales": ["uk-ua", "en-us"],
+  "locale": "uk-ua",
+  "logo": {
+    "title": "logo_ukr.svg",
+    "url": "/logo_ukr.svg"
+  },
+  "navigationLinks": [
+    {
+      "title": "Головна",
+      "href": "/"
+    },
+    {
+      "title": "Про нас",
+      "href": "/about-us"
+    },
+    {
+      "title": "Новини",
+      "href": "/news"
+    },
+    {
+      "title": "Види допомоги",
+      "href": "/types-of-help"
+    },
+    {
+      "title": "Заявка на допомогу",
+      "href": "/ask-for-help"
+    },
+    {
+      "title": "Контакти",
+      "href": "/contacts"
+    }
+  ]
+}

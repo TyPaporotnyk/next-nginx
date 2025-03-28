@@ -1,0 +1,57 @@
+{
+  "copyright": "©2023 MRIYA FOUNDATION",
+  "logo": {
+    "title": "logo_eng.svg",
+    "url": "/logo_eng.svg"
+  },
+  "navigationLinks": [
+    {
+      "title": "ABOUT US",
+      "href": "/about-us"
+    },
+    {
+      "title": "News",
+      "href": "/news"
+    },
+    {
+      "title": "TYPES OF HELP",
+      "href": "/types-of-help"
+    },
+    {
+      "title": "ASK FOR HELP",
+      "href": "/ask-for-help"
+    },
+    {
+      "title": "CONTACTS",
+      "href": "/contacts"
+    }
+  ],
+  "socialLinks": [
+    {
+      "title": "instagram",
+      "href": "https://www.instagram.com/mriya.foundation/"
+    },
+    {
+      "title": "facebook",
+      "href": "https://www.facebook.com/mriya.foundation/"
+    }
+  ],
+  "typesOfHelpLinks": [
+    {
+      "title": "LEGAL SUPPORT AND ASSISTANCE",
+      "href": "/types-of-help#law"
+    },
+    {
+      "title": "HUMANITARIAN HELP",
+      "href": "/types-of-help#humanitarian"
+    },
+    {
+      "title": "EDUCATIONAL SUPPORT",
+      "href": "/types-of-help#education"
+    },
+    {
+      "title": "SUMMER WITHOUT WAR",
+      "href": "/types-of-help#summer"
+    }
+  ]
+}

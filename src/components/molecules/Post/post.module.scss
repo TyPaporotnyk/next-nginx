@@ -1,0 +1,120 @@
+@import '@styles/main';
+
+.contentContainer {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 12px;
+
+  &.hasPictureOnLeft {
+    flex-direction: row;
+  }
+
+  @media (min-width: $tablet) {
+    gap: 24px;
+  }
+
+  @media (min-width: $tablet) {
+    gap: 60px;
+  }
+}
+
+.content {
+  flex: 1;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+
+  .headerInfo {
+    margin-bottom: 12px;
+    overflow: hidden;
+
+    & > h4 {
+      font-family: $font-regular;
+      overflow: hidden;
+    }
+  }
+
+  .description a {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    color: $color-link-blue;
+    text-decoration: none;
+  }
+
+  .description a {
+    display: inline;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .filler {
+    flex: 1;
+  }
+
+  .button {
+    padding-top: 12px;
+  }
+
+  @media (min-width: $tablet) {
+    .headerInfo {
+      margin-bottom: 24px;
+
+      & > h4 {
+        font-family: $font-heading;
+      }
+    }
+
+    .button {
+      padding-top: 30px;
+    }
+  }
+
+  @media (min-width: $desktop) {
+    .headerInfo {
+      margin-bottom: 34px;
+    }
+
+    .button {
+      padding-top: 40px;
+    }
+  }
+
+  @media (min-width: $desktop-wide) {
+    .headerInfo {
+      margin-bottom: 40px;
+    }
+
+    // .showMoreLessButton {
+    //   display: none;
+    // }
+  }
+}
+
+.imageContainer {
+  width: 121px;
+  overflow: hidden;
+  position: relative;
+
+  @media (min-width: $tablet) {
+    width: 217px;
+  }
+
+  @media (min-width: $desktop) {
+    width: auto;
+  }
+
+  & > img {
+    height: 100%;
+    width: auto;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}

@@ -1,0 +1,5 @@
+$one-rem: 16px;
+
+@function px-to-rem($px) {
+  @return #{$px / $one-rem + "rem"};
+}

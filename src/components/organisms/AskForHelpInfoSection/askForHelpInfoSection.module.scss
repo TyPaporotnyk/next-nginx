@@ -1,0 +1,42 @@
+@import '@styles/main';
+
+.title {
+  margin-bottom: 24px;
+  text-align: center;
+
+  @media (min-width: $tablet) {
+  margin-bottom: 34px;
+  }
+
+  @media (min-width: $desktop) {
+    margin-bottom: 40px;
+  }
+}
+
+.description {
+  margin-bottom: 50px;
+  @media (min-width: $desktop) {
+    margin-bottom: 150px;
+  }
+}
+
+.description a, .description address {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  color: $color-link-blue;
+  text-decoration: none;
+}
+
+.description a, .description address {
+  display: inline;
+  width: 100%;
+  overflow: hidden;
+  text-decoration: underline;
+}

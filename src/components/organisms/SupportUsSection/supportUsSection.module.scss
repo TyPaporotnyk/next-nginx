@@ -1,0 +1,52 @@
+@import '@styles/main';
+
+.extraWrapper {
+  margin-top: 34px;
+
+  @media (min-width: $tablet) {
+    margin-top: 100px;
+  }
+}
+
+.supportUsSection {
+  padding: 40px 16px;
+
+  @media (min-width: $tablet) {
+    padding: 60px 34px;
+  }
+
+  @media (min-width: $desktop-wide) {
+    padding: 60px 75px;
+  }
+}
+
+.contentContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  h4 {
+    font-family: $font-regular;
+    text-align: center;
+  }
+
+  button {
+    margin-top: 22px;
+  }
+
+  @media (min-width: $tablet) {
+    h4 {
+      font-family: $font-heading;
+    }
+
+    button {
+      margin-top: 30px;
+    }
+  }
+
+  @media (min-width: $desktop) {
+    button {
+      margin-top: 40px;
+    }
+  }
+}

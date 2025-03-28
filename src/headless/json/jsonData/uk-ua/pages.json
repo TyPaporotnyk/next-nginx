@@ -1,0 +1,422 @@
+[
+  {
+    "title": "Мрія Фундація",
+    "showTitle": false,
+    "url": "/",
+    "locale": "uk-ua",
+    "pageComponents": [
+      {
+        "uid": "hero_banner_section",
+        "props": {
+          "posts": ["8", "6", "7"],
+          "callToAction": {
+            "title": "Дізнайся більше",
+            "href": "/banner"
+          }
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "1",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      },
+      {
+        "uid": "support_us_section",
+        "props": {
+          "title": "Дарувати дітям мрію і стимул до життя<br>Давати опору тим, хто втратив у війні найрідніших",
+          "actionLink": {
+            "title": "Підтримати нас",
+            "href": "/support-us"
+          },
+          "sectionBgColor": "#3d5d25",
+          "sectionTextColor": "#ffffff"
+        }
+      },
+      {
+        "uid": "section_with_posts",
+        "props": {
+          "title": "Новини",
+          "posts": ["25", "24"],
+          "sectionCallToAction": {
+            "title": "Читати всі новини",
+            "href": "/news"
+          },
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      },
+      {
+        "uid": "areas_of_activity_section",
+        "props": {
+          "title": "Кожна гривня важлива<br>Саме ви можете підтримати наші проєкти",
+          "activities": ["a1", "a2", "a3", "a4"],
+          "sectionBgColor": "#3d5d25",
+          "sectionTextColor": "#fff",
+          "isTopSection": false
+        }
+      },
+      {
+        "uid": "partners_section",
+        "props": {
+          "title": "Партнери",
+          "partners": [
+            "p1",
+            "p2",
+            "p3",
+            "p4",
+            "p5",
+            "p6",
+            "p7",
+            "p8",
+            "p9",
+            "p10",
+            "p11",
+            "p12",
+            "p13",
+            "p14",
+            "p15",
+            "p16",
+            "p17",
+            "p18",
+            "p19",
+            "p20"
+          ],
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      }
+    ]
+  },
+  {
+    "title": "Мрія Фундація",
+    "showTitle": false,
+    "url": "/banner",
+    "locale": "uk-ua",
+    "pageComponents": [
+      {
+        "uid": "hero_details_section",
+        "props": {
+          "posts": ["6", "7", "8"],
+          "backButtonLabel": "Назад",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": true
+        }
+      }
+    ]
+  },
+  {
+    "title": "Про нас",
+    "showTitle": false,
+    "url": "/about-us",
+    "locale": "uk-ua",
+    "pageComponents": [
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "4",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": true
+        }
+      },
+      {
+        "uid": "support_us_section",
+        "props": {
+          "title": "Дарувати дітям мрію і стимул до життя<br>Давати опору тим, хто втратив у війні найрідніших",
+          "actionLink": {
+            "title": "Підтримати нас",
+            "href": "/support-us"
+          },
+          "sectionBgColor": "#3d5d25",
+          "sectionTextColor": "#ffffff"
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "5",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      }
+    ]
+  },
+  {
+    "title": "Новини",
+    "showTitle": true,
+    "url": "/news",
+    "locale": "uk-ua",
+    "pageComponents": [
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "25",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": true
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "24",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      },
+      {
+        "uid": "support_us_section",
+        "props": {
+          "title": "Дарувати дітям мрію і стимул до життя<br>Давати опору тим, хто втратив у війні найрідніших",
+          "actionLink": {
+            "title": "Підтримати нас",
+            "href": "/support-us"
+          },
+          "sectionBgColor": "#3d5d25",
+          "sectionTextColor": "#ffffff"
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "23",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "21",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      }
+    ]
+  },
+  {
+    "title": "Кожна гривня важлива<br>Саме ви можете підтримати наші проєкти",
+    "showTitle": true,
+    "url": "/types-of-help",
+    "locale": "uk-ua",
+    "pageComponents": [
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "11",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": true
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "12",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      },
+      {
+        "uid": "support_us_section",
+        "props": {
+          "title": "Дарувати дітям мрію і стимул до життя<br>Давати опору тим, хто втратив у війні найрідніших",
+          "actionLink": {
+            "title": "Підтримати нас",
+            "href": "/support-us"
+          },
+          "sectionBgColor": "#3d5d25",
+          "sectionTextColor": "#ffffff"
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "13",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      },
+      {
+        "uid": "section_with_post",
+        "props": {
+          "post": "14",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": false
+        }
+      }
+    ]
+  },
+  {
+    "title": "Заявка на підтримку родин загиблих, зниклих<br>безвісти та полонених захисників",
+    "showTitle": true,
+    "url": "/ask-for-help",
+    "locale": "uk-ua",
+    "pageComponents": [
+      {
+        "uid": "ask_for_help_info_section",
+        "props": {
+          "description": "<p>Необхідно заповнити заявку по потребі заявника  - <a href=\"https://forms.gle/tQfZTtFWmGhRe76J8\" target=\"_blank\">форма</a></p><br><p>Якщо Ви потребуєте правової допомоги з оформленням документів, які засвідчують статус Захисника, зверніться, будь ласка, до <a href=\"https://uhrc.org.ua\" target=\"_blank\">Українського центру захисту прав людини</a> з яким ми співпрацюємо за номерами<br><strong>0 800 33 07 09 або 050 75 444 08</strong></p><br><p>За додатковими питаннями звертайтеся: <address>foundation.mriya@gmail.com</address></p>",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": true
+        }
+      }
+    ]
+  },
+  {
+    "title": "Контакти",
+    "showTitle": true,
+    "url": "/contacts",
+    "locale": "uk-ua",
+    "pageComponents": [
+      {
+        "uid": "contacts_section",
+        "props": {
+          "contactsList": ["c1", "c2", "c3", "c4", "c5", "c6", "c7", "c8", "c9", "c10", "c11", "c12", "c13"],
+          "searchPlaceholder": "Пошук по регіонам",
+          "notFoundText": "Не знайдено жодного контакту",
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": true
+        }
+      }
+    ]
+  },
+  {
+    "title": "Реквізити для благодійної допомоги",
+    "showTitle": true,
+    "url": "/support-us",
+    "locale": "uk-ua",
+    "pageComponents": [
+      {
+        "uid": "payments_details_info",
+        "props": {
+          "sectionBgColor": "#ffffff",
+          "sectionTextColor": "#000000",
+          "isTopSection": true,
+          "dataBlocks": [
+            {
+              "blockTitle": "Гривня",
+              "data": [
+                { "title": "Благодійна організація «Українська фундація «Мрія»" },
+                { "title": "ЄДРПОУ:", "description": "45083663" },
+                { "title": "р/р:", "description": "UA733052990000026008016231471" },
+                { "description": "в АТ КБ «ПРИВАТБАНК», м. Київ" },
+                {
+                  "title": "Призначення платежу:",
+                  "description": "Благодійна допомога для здійснення статутної діяльності"
+                },
+                {
+                  "href": "https://next.privat24.ua/payments/form/%7B%22token%22:%228e03833d-8fc2-4408-9613-cfc8f8ca6f43%22%7D",
+                  "label": "Або за посиланням"
+                },
+                "br",
+                { "title": "Ознака неприбутковості:", "description": "0036" },
+                {
+                  "title": "Юридична адреса:",
+                  "description": "Україна, 01032, м. Київ, вул. Саксаганського, б. 74Б, оф. 11"
+                },
+                { "title": "Email:", "description": "foundation.mriya@gmail.com" },
+                "br",
+                { "title": "Mono Bank"},
+                { "buttonHref": "https://send.monobank.ua/jar/A61E7F4chX", "label": "Задонатити" }
+              ]
+            },
+            {
+              "blockTitle": "USD",
+              "data": [
+                { "title": "MRIYA UKRAINE FOUNDATION", "description": "CHARITABLE ORGANIZATION" },
+                { "title": "IBAN:", "description": "UA483052990000026004006250660" },
+                "br",
+                { "title": "Beneficiary's bank:", "description": "JSC CB \"PRIVATBANK\"" },
+                { "title": "Bank address:", "description": "1D HRUSHEVSKOHO STR., KYIV, 01001, UKRAINE" },
+                { "title": "SWIFT Code:", "description": "PBANUA2X" },
+                { "title": "Description:", "description": "Charitable donation" },
+                "br",
+                { "title": "Company address:", "description": "Saksahanskoho str. 74B, ofc. 11, Kyiv, 01032, Ukraine" },
+                { "title": "Email:", "description": "foundation.mriya@gmail.com" },
+                { "title": "Registration number:", "description": "45083663" },
+                "br",
+                { "title": "Correspondent bank:", "description": "JP Morgan Chase Bank" },
+                { "title": "Bank address:", "description": "New York, USA" },
+                { "title": "SWIFT code:", "description": "CHASUS33" },
+                { "title": "Correspondent account:", "description": "001-1-000080" }
+              ]
+            },
+            {
+              "blockTitle": "EUR",
+              "data": [
+                { "title": "MRIYA UKRAINE FOUNDATION", "description": "CHARITABLE ORGANIZATION" },
+                { "title": "IBAN:", "description": "UA353052990000026002016238276" },
+                "br",
+                { "title": "Beneficiary's bank:", "description": "JSC CB \"PRIVATBANK\"" },
+                { "title": "Bank address:", "description": "1D HRUSHEVSKOHO STR., KYIV, 01001, UKRAINE" },
+                { "title": "SWIFT Code:", "description": "PBANUA2X" },
+                { "title": "Description:", "description": "Charitable donation" },
+                "br",
+                { "title": "Company address:", "description": "Saksahanskoho str. 74B, ofc. 11, Kyiv, 01032, Ukraine" },
+                { "title": "Email:", "description": "foundation.mriya@gmail.com" },
+                { "title": "Registration number:", "description": "45083663" },
+                "br",
+                { "title": "Correspondent bank:", "description": "Commerzbank AG" },
+                { "title": "Bank address:", "description": "Frankfurt am Main, Germany" },
+                { "title": "SWIFT code:", "description": "COBADEFF" },
+                { "title": "Correspondent account:", "description": "400886700401" }
+              ]
+            },
+            {
+              "blockTitle": "PayPal",
+              "data": [
+                { "description": "paypfort@gmail.com" },
+                { "title": "In \"Payment type\" - \"For friends and family\"" }
+              ]
+            },
+            {
+              "blockTitle": "Crypto",
+              "data": [
+                { "title": "Tron (TRX)" },
+                { "description": "TNtMQW4N8FbrbKVN7ybG33jWriqNmLTp7Y" },
+                "br",
+                { "title": "Tether (USDT)" },
+                { "description": "TNtMQW4N8FbrbKVN7ybG33jWriqNmLTp7Y" },
+                "br",
+                { "title": "Bitcoin" },
+                { "description": "bc1q9cq90wg0anfcgya3ar3z3jugtvyr8t446gqm02" }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "Page Not Found",
+    "showTitle": false,
+    "url": "/404",
+    "locale": "en-us",
+    "pageComponents": [
+      {
+        "uid": "page_not_found_content",
+        "props": {
+          "title": "Ой лишенько, здається ми не можемо виконати ваш запит((",
+          "subTitle": "Сталася помилка та сторінка, яку ви шукаєте, було видалено, або вона тим часом недоступна."
+        }
+      }
+    ]
+  }
+]

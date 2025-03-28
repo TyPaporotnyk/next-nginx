@@ -1,0 +1,222 @@
+[
+  {
+    "uid": "p1",
+    "picture": {
+      "title": "monobank logo",
+      "url": "/mono.png"
+    },
+    "callToAction": {
+      "title": "Monobank",
+      "href": "https://www.monobank.ua/?lang=uk"
+    }
+  },
+  {
+    "uid": "p2",
+    "picture": {
+      "title": "novaposhta logo",
+      "url": "/novap.png"
+    },
+    "callToAction": {
+      "title": "Nova Poshta",
+      "href": "https://novaposhta.ua/"
+    }
+  },
+  {
+    "uid": "p3",
+    "picture": {
+      "title": "raiffeisen bank logo",
+      "url": "/raff.png"
+    },
+    "callToAction": {
+      "title": "Raiffeisen bank",
+      "href": "https://raiffeisen.ua/"
+    }
+  },
+  {
+    "uid": "p4",
+    "picture": {
+      "title": "EPAM Systems logo",
+      "url": "/epam.png"
+    },
+    "callToAction": {
+      "title": "EPAM Systems",
+      "href": "https://www.epam.com/"
+    }
+  },
+  {
+    "uid": "p5",
+    "picture": {
+      "title": "rozetka logo",
+      "url": "/rozetka.png"
+    },
+    "callToAction": {
+      "title": "Rozetka",
+      "href": "https://rozetka.com.ua/ua/"
+    }
+  },
+  {
+    "uid": "p6",
+    "picture": {
+      "title": "foxtrot logo",
+      "url": "/foxtrot.png"
+    },
+    "callToAction": {
+      "title": "Foxtrot",
+      "href": "https://www.foxtrot.com.ua/uk"
+    }
+  },
+  {
+    "uid": "p7",
+    "picture": {
+      "title": "bosch logo",
+      "url": "/bosch.png"
+    },
+    "callToAction": {
+      "title": "Bosch",
+      "href": "https://www.bosch.ua/"
+    }
+  },
+  {
+    "uid": "p8",
+    "picture": {
+      "title": "philips logo",
+      "url": "/philips.png"
+    },
+    "callToAction": {
+      "title": "Philips",
+      "href": "https://www.philips.ua/"
+    }
+  },
+  {
+    "uid": "p9",
+    "picture": {
+      "title": "oral-b logo",
+      "url": "/oralb.png"
+    },
+    "callToAction": {
+      "title": "Oral-b",
+      "href": "https://oralb.com/"
+    }
+  },
+  {
+    "uid": "p10",
+    "picture": {
+      "title": "terrasoft logo",
+      "url": "/terrasoft.png"
+    },
+    "callToAction": {
+      "title": "Terrasoft",
+      "href": "https://academy.terrasoft.ua/"
+    }
+  },
+  {
+    "uid": "p11",
+    "picture": {
+      "title": "creatio logo",
+      "url": "/creatio.png"
+    },
+    "callToAction": {
+      "title": "Creatio",
+      "href": "https://www.creatio.com/ua/"
+    }
+  },
+  {
+    "uid": "p12",
+    "picture": {
+      "title": "uaf logo",
+      "url": "/uaf.png"
+    },
+    "callToAction": {
+      "title": "Uaf",
+      "href": "https://uaf.ua/"
+    }
+  },
+  {
+    "uid": "p13",
+    "picture": {
+      "title": "nova Ukraine logo",
+      "url": "/nova.png"
+    },
+    "callToAction": {
+      "title": "Nova Ukraine",
+      "href": "https://novaukraine.org/uk"
+    }
+  },
+  {
+    "uid": "p14",
+    "picture": {
+      "title": "caritas logo",
+      "url": "/caritas.png"
+    },
+    "callToAction": {
+      "title": "Caritas",
+      "href": "https://caritas.ua/"
+    }
+  },
+  {
+    "uid": "p15",
+    "picture": {
+      "title": "uhrc logo",
+      "url": "/uhrc.png"
+    },
+    "callToAction": {
+      "title": "UHRC",
+      "href": "https://uhrc.org.ua/"
+    }
+  },
+  {
+    "uid": "p16",
+    "picture": {
+      "title": "English Power Program logo",
+      "url": "/englishPP.png"
+    },
+    "callToAction": {
+      "title": "English Power Program",
+      "href": "http://springenglish.tilda.ws/"
+    }
+  },
+  {
+    "uid": "p17",
+    "picture": {
+      "title": "dopomogator logo",
+      "url": "/dopomogator.png"
+    },
+    "callToAction": {
+      "title": "Dopomogator",
+      "href": "https://dopomogator.org"
+    }
+  },
+  {
+    "uid": "p18",
+    "picture": {
+      "title": "Igor Jenevskiy fond logo",
+      "url": "/BFIgorJ.png"
+    },
+    "callToAction": {
+      "title": "Igor Jenevskiy fond ",
+      "href": "https://facebook.com/groups/631497192354864/"
+    }
+  },
+  {
+    "uid": "p19",
+    "picture": {
+      "title": "atschool logo",
+      "url": "/atscool.png"
+    },
+    "callToAction": {
+      "title": "atschool",
+      "href": "https://www.atschool.com.ua/"
+    }
+  },
+  {
+    "uid": "p20",
+    "picture": {
+      "title": "Promote Ukraine logo",
+      "url": "/promoteua.png"
+    },
+    "callToAction": {
+      "title": "Promote Ukraine",
+      "href": "https://www.promoteukraine.org/uk/{*}{*}"
+    }
+  }
+]

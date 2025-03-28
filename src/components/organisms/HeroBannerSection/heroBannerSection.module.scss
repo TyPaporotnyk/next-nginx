@@ -1,0 +1,162 @@
+@import '@styles/main';
+
+.heroBannerSection {
+  min-height: 372px;
+  height: 60vw;
+  width: 100%;
+
+  @media (min-width: $tablet) {
+    min-height: 550px;
+  }
+
+  @media (min-width: $desktop) {
+    min-height: 754px;
+  }
+
+  @media (min-width: $desktop-wide) {
+    height: 800px;
+  }
+}
+
+.heroBannerContainer {
+  position: relative;
+  width: 100%;
+  max-width: 1440px;
+  height: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.slideItem {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  transition: left 0.5s linear;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  overflow: hidden;
+
+  & > image {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 100% !important;
+    object-fit: cover;
+  }
+}
+
+.slide0 {
+  z-index: 1;
+  left: -100%;
+}
+
+.slide1 {
+  z-index: 2;
+  left: 0;
+}
+
+.slide2 {
+  z-index: 0;
+  left: 100%;
+}
+
+.nextButton {
+  position: absolute;
+  right: 16px;
+  background-color: transparent;
+  bottom: 30%;
+  z-index: 5;
+  cursor: pointer;
+
+  & > svg {
+    width: 51px;
+    height: 51px;
+
+    @media (min-width: $tablet) {
+      height: 92px;
+      width: 92px;
+    }
+  }
+
+  @media (min-width: $tablet) {
+    bottom: 25%;
+    right: 34px;
+  }
+
+  @media (min-width: $desktop) {
+    right: 75px;
+    bottom: 20%;
+  }
+}
+
+.slideContent {
+  position: absolute;
+  z-index: 2;
+  left: 16px;
+  bottom: 40px;
+  color: $color-white;
+
+  h1 {
+    width: 75%;
+    @include fontSizes(24px, 26px);
+  }
+
+  p {
+    width: 70%;
+    @include fontSizes(16px, 18px);
+    margin-top: 8px;
+  }
+
+  button {
+    margin-top: 22px;
+  }
+
+  @media (min-width: $tablet) {
+    left: 34px;
+    bottom: 68px;
+
+    h1 {
+      width: 80%;
+      @include fontSizes(52px, 56px);
+    }
+
+    p {
+      font-family: $font-heading;
+      @include fontSizes(20px, 26px);
+    }
+
+    button {
+      margin-top: 44px;
+    }
+  }
+
+  @media (min-width: $desktop) {
+    h1 {
+      width: 80%;
+      @include fontSizes(64px, 69px);
+    }
+
+    p {
+      @include fontSizes(24px, 26px);
+    }
+  }
+
+  @media (min-width: $desktop-wide) {
+    left: 75px;
+    bottom: 112px;
+
+    p {
+      font-family: $font-heading;
+      @include fontSizes(20px, 26px);
+    }
+
+    button {
+      margin-top: 44px;
+    }
+  }
+}
