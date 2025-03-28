@@ -76,14 +76,14 @@
   },
   {
     "uid": "4",
-    "title": "Yulia Paevska (Tyra)",
-    "subTitle": "an Ukrainian servicewoman, volunteer, paramedic, and commander of the volunteer medical evacuation unit \"Tyra's Angels\"",
+    "title": "Anastasiia ZarichnaRetry",
+    "subTitle": "Director of Charitable Foundation \"Ukrainian Foundation 'Mriia'\"",
     "anchor": "",
     "callToAction": {
       "title": "",
       "href": ""
     },
-    "description": "<p>Hello!</p><br><p>I am Yulia Paevska (Tyra) - a Ukrainian servicewoman, volunteer, paramedic, and commander of the volunteer medical evacuation unit \"Tyra's Angels.\" I am a former prisoner of war.</p><br><p>My voice, efforts, and energy are always dedicated to supporting Ukraine and its people. I am intolerant of lies and hypocrisy, and I am immensely inspired by the bravery and resilience of our defenders. I strive to assist the captives and their families, protect the interests of the liberated, and seek justice for military criminals.</p><br><p>In 2022, I founded the charitable foundation \"Mriya\" (Dream), which takes care of the families of fallen and captured heroes. Our goal is to ensure that children who have lost their loved ones to war do not lose faith in the future and in themselves, and find the strength to recover and develop personally.</p><br><p>I am honored to have received the Sakharov Prize for Freedom of Thought in the European Parliament, awarded to the brave people of Ukraine, as well as the international \"Woman of Courage\" award from the U.S. Department of State. I participated in the Ukrainian</p><br><p>Invictus Games and the U.S. Warrior Games, winning 2 gold medals and 1 bronze medal in Orlando. I was also included in the BBC's \"100 Women\" list in 2022.</p><br><p>All my achievements are dedicated to the fighters for freedom, democracy, and human rights.</p>",
+    "description": "<p>For her, volunteering is not a hobby or a passion, but the duty of a conscious person.<br>The war for freedom has been ongoing in Ukraine since 2014, and mutual assistance is the foundation on which society stands.<br>The fate of the state depends not only on defenders at the frontline, but also on every citizen, believes Anastasiia, so she volunteers herself and invites others to join.</p><br><p>With the support of friends and like-minded people, she has managed to conduct numerous charity fundraisers to provide soldiers on the frontline with drones, vehicles, night vision devices, and other necessary equipment.<br>Together with the \"Mriia\" team, she cares for families of fallen and captured Ukrainians and tries to ensure that children whose parents have been taken by the enemy feel support and motivation to live.</p><br><p>Anastasiia is convinced that progressive changes in any country depend on the youth.<br>The main thing is to believe in yourself and move toward a common goal.</p>",
     "leftPicturePositioning": false,
     "picture": {
       "title": "taira.png",
@@ -102,13 +102,13 @@
   {
     "uid": "5",
     "title": "Tetiana Komlyk",
-    "subTitle": "the Executive Director of the \"Mriya\" Foundation",
+    "subTitle": "Co-founder of the \"Mriia\" Foundation",
     "anchor": "",
     "callToAction": {
       "title": "",
       "href": ""
     },
-    "description": "<p>Hello!</p><br><p>I'm Tetiana Komlyk, the Executive Director of the \"Mriya\" Foundation, a volunteer, public figure, blogger, and children's writer.</p><br><p>My friends, readers, and subscribers know me as \"Tatusya BO.\" I have a wealth of professional experience: I have worked as a film director, journalist, educator, editor for a publishing house and several websites, PR director for a music band, screenwriter, and TV presenter.</p><br><p>I have authored four children's books and numerous texts for adults on various life observations. My literary arsenal consists of humor, irony, sarcasm, and grotesque, encompassing all shades of comedy.</p><br><p>I am known as a promoter of change in Ukrainian education, and it's true. As an educator by profession and a mother of two children, I see and experience all the gaps in the modern education system. In the\"Mriya\" Foundation, I specifically oversee educational support programs for our beneficiaries, such as foreign language courses, programming, preparation for national exams, and creative workshops.</p><br><p>Consistently, I advocate not only for reforms but also for a rethinking of the role of teachers and educators in our country. \"Pedagogy of the future\" is primarily about mutual respect, partnership, motivation, and the personal value of participants in the learning process. It is through these values that a generation capable of conquering the world can grow.</p>",
+    "description": "<p>Volunteer, public figure, blogger, and children's writer. Friends, readers, and subscribers know her as Tatusia BO.<br>Her professional portfolio includes extensive experience: she has worked as a film studio director, journalist, educator, publishing house and website editor, PR director for a music band, screenwriter, and TV host.</p><p>Author of four children's books and numerous texts for adults from a series of life observations on various topics.<br>Her literary weapons are humor, irony, sarcasm, grotesque - all shades of comedy.</p><br><p>Tetiana is called a promoter of changes in Ukrainian education. As a professional educator and mother of two children, she notices and experiences all the gaps in the modern education system.<br>At the \"Mriia\" Foundation, she oversees development programs for young beneficiaries, and has also launched the \"Welcome Home\" project to support Ukrainians released from captivity.</p>",
     "leftPicturePositioning": true,
     "picture": {
       "title": "fondDirector.png",
@@ -119,7 +119,7 @@
       "mobile": 152,
       "tablet": 247,
       "desktop": 532,
-      "desktop_wide": 700
+      "desktop_wide": 500
     },
     "showLessLabel": "Less",
     "showMoreLabel": "More"
